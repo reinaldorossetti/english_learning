@@ -1,7 +1,27 @@
 # 200 Most Used Verbs in English - Complete Guide
 
+---
+
+## Study Tips (Dicas de Estudo)
+
+- Daily routine: Study 20–30 minutes every day. | Rotina diária: Estude 20–30 minutos por dia.
+- Learn by sections: Focus on 20 verbs per section. | Estude por seções: Foque em 20 verbos por seção.
+- Spaced repetition: Review on days 1, 2, 5, 10, 20. | Repetição espaçada: Reveja nos dias 1, 2, 5, 10, 20.
+- Pronunciation: Say verbs aloud using the phonetic guide. | Pronúncia: Fale os verbos em voz alta usando a guia fonética.
+- Make sentences: Write 1–2 sentences per verb (use Q&A). | Frases: Escreva 1–2 frases por verbo (use Pergunta + Resposta).
+- Practice tenses: Conjugate in present, past, and future. | Tempos verbais: Conjugue no presente, passado e futuro.
+- Flashcards: Front = ID + Verb; Back = translation, tenses, emotion. | Cartões: Frente = ID + Verbo; Verso = tradução, tempos, emoção.
+- Active recall: Test yourself without looking at the table. | Recordação ativa: Teste-se sem olhar a tabela.
+- Context & emotion: Link verbs to emoji/context to remember. | Contexto & emoção: Relacione verbos ao emoji/contexto para memorizar.
+- Mini-dialogues: Combine 5 verbs to create quick dialogues. | Mini-diálogos: Combine 5 verbos para criar diálogos rápidos.
+- Error log: Keep a list of difficult/confused verbs. | Registro de erros: Mantenha uma lista de verbos difíceis/confundidos.
+- Rotate skills: Listen, speak, read, write each session. | Gire habilidades: Ouvir, falar, ler, escrever em cada sessão.
+
+---
+
 ## Index
 
+- [Study Tips (Dicas de Estudo)](#study-tips-dicas-de-estudo)
 1. [Fundamental Verbs (1-20)](#fundamental-verbs)
 2. [Movement Verbs (21-40)](#movement-verbs)
 3. [Communication Verbs (41-60)](#communication-verbs)
