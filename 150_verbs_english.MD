@@ -1,22 +1,22 @@
-# 150 Verbos Mais Usados em English - Guia Completo
+# 150 Most Used Verbs in English - Complete Guide
 
-## Índice
+## Index
 
-1. [Verbos Fundamentais (1-10)](#verbos-fundamentais)
-2. [Verbos de Movimento (11-20)](#verbos-de-movimento)
-3. [Verbos de Comunicação (21-30)](#verbos-de-comunicação)
-4. [Verbos de Ação (31-50)](#verbos-de-ação)
-5. [Verbos de Sentimento (51-70)](#verbos-de-sentimento)
-6. [Verbos de Trabalho (71-90)](#verbos-de-trabalho)
-7. [Verbos de Vida Diária (91-110)](#verbos-de-vida-diária)
-8. [Verbos de Experiência (111-130)](#verbos-de-experiência)
+1. [Fundamental Verbs (1-10)](#fundamental-verbs)
+2. [Movement Verbs (11-20)](#movement-verbs)
+3. [Communication Verbs (21-30)](#communication-verbs)
+4. [Action Verbs (31-50)](#action-verbs)
+5. [Feeling Verbs (51-70)](#feeling-verbs)
+6. [Work Verbs (71-90)](#work-verbs)
+7. [Daily Life Verbs (91-110)](#daily-life-verbs)
+8. [Experience Verbs (111-130)](#experience-verbs)
 9. [Verbos de Conclusão (131-150)](#verbos-de-conclusão)
 
 ---
 
-## Verbos Fundamentais
+## Fundamental Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **be** /bi/ | ser/estar | am/is/are | was/were | will be | *Are you happy?* → *Yes, I am.* | Verbo mais importante, expressa existência e estado. | 😊 Felicidade |
 | **have** /hæv/ | ter | have/has | had | will have | *Do you have a car?* → *Yes, I do.* | Indica posse ou propriedade. | 😌 Satisfação |
@@ -31,9 +31,9 @@
 
 ---
 
-## Verbos de Movimento
+## Movement Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **come** /kʌm/ | vir | come/comes | came | will come | *Will you come?* → *Yes, I will.* | Movimento em direção a quem fala. | 🤝 Aproximação |
 | **leave** /liv/ | partir/deixar | leave/leaves | left | will leave | *Did you leave early?* → *Yes, I left at 5.* | Sair de um lugar ou deixar algo. | 👋 Despedida |
@@ -48,9 +48,9 @@
 
 ---
 
-## Verbos de Comunicação
+## Communication Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **talk** /tɔk/ | conversar | talk/talks | talked | will talk | *Did you talk to him?* → *Yes, I did.* | Trocar ideias verbalmente. | 🗣️ Diálogo |
 | **speak** /spik/ | falar | speak/speaks | spoke | will speak | *Do you speak English?* → *Yes, I do.* | Produzir linguagem oral. | 📢 Expressão |
@@ -65,9 +65,9 @@
 
 ---
 
-## Verbos de Ação
+## Action Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **work** /wɜrk/ | trabalhar | work/works | worked | will work | *Do you work here?* → *Yes, I do.* | Realizar atividade produtiva. | 💼 Trabalho |
 | **use** /juz/ | usar | use/uses | used | will use | *Did you use it?* → *Yes, I used it.* | Empregar algo para um fim. | 🔧 Utilidade |
@@ -92,9 +92,9 @@
 
 ---
 
-## Verbos de Sentimento
+## Feeling Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **feel** /fil/ | sentir | feel/feels | felt | will feel | *How do you feel?* → *I feel good.* | Perceber emoção ou sensação. | ❤️ Emoção |
 | **love** /lʌv/ | amar | love/loves | loved | will love | *Do you love her?* → *Yes, I do.* | Ter forte afeto profundo. | 😍 Amor |
@@ -119,9 +119,9 @@
 
 ---
 
-## Verbos de Trabalho
+## Work Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **buy** /baɪ/ | comprar | buy/buys | bought | will buy | *Did you buy food?* → *Yes, I did.* | Adquirir pagando. | 🛍️ Compra |
 | **sell** /sɛl/ | vender | sell/sells | sold | will sell | *Did you sell the car?* → *Yes, sold.* | Dar em troca de dinheiro. | 💰 Venda |
@@ -146,9 +146,9 @@
 
 ---
 
-## Verbos de Vida Diária
+## Daily Life Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **eat** /it/ | comer | eat/eats | ate | will eat | *Did you eat?* → *Yes, I ate.* | Ingerir alimento. | 🍽️ Alimentação |
 | **drink** /drɪŋk/ | beber | drink/drinks | drank | will drink | *Do you drink coffee?* → *No.* | Ingerir líquido. | 🥤 Sede |
@@ -173,9 +173,9 @@
 
 ---
 
-## Verbos de Experiência
+## Experience Verbs
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **see** /si/ | ver | see/sees | saw | will see | *Did you see it?* → *Yes, clearly.* | Perceber com a visão. | 👀 Visão |
 | **seem** /sim/ | parecer | seem/seems | seemed | will seem | *It seems nice.* → *Yes, it does.* | Dar a impressão de ser. | 🤔 Impressão |
@@ -202,7 +202,7 @@
 
 ## Verbos de Conclusão
 
-| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explicação | Emoção |
+| Verbo | Tradução | Presente | Passado | Futuro | Pergunta + Resposta | Explanation | Emoção |
 |-------|----------|----------|---------|--------|-------------------|-----------|--------|
 | **finish** /ˈfɪnɪʃ/ | terminar | finish/finishes | finished | will finish | *Did you finish?* → *Yes, done.* | Chegar ao fim. | 🏁 Fim |
 | **end** /ɛnd/ | encerrar/acabar | end/ends | ended | will end | *When does it end?* → *At 5.* | Concluir algo. | 🛑 Término |
