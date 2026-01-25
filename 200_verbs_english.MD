@@ -18,7 +18,7 @@
 ## 1. Fundamental Verbs (ID: 1-20)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 1 | **be** /bi/ | ser/estar | am/is/are | was/were | will be | *Are you happy?* → *Yes, I am.* | Most important verb, expresses existence and state. | 😊 Happiness / Felicidade |
 | 2 | **have** /hæv/ | ter | have/has | had | will have | *Do you have a car?* → *Yes, I do.* | Indicates possession or property. | 😌 Satisfaction / Satisfação |
 | 3 | **do** /du/ | fazer | do/does | did | will do | *Do you do your homework?* → *Yes, I do.* | Performs actions or functions as auxiliary. | 💪 Determination / Determinação |
@@ -45,7 +45,7 @@
 ## 2. Movement Verbs (ID: 21-40)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 21 | **come** /kʌm/ | vir | come/comes | came | will come | *Will you come?* → *Yes, I will.* | Movement toward the speaker. | 🤝 Approach / Aproximação |
 | 22 | **leave** /liv/ | partir/deixar | leave/leaves | left | will leave | *Did you leave early?* → *Yes, I left at 5.* | Exit a place or abandon something. | 👋 Farewell / Despedida |
 | 23 | **run** /rʌn/ | correr | run/runs | ran | will run | *Do you run?* → *Yes, I run fast.* | Move quickly on foot. | ⚡ Energy / Energia |
@@ -72,7 +72,7 @@
 ## 3. Communication Verbs (ID: 41-60)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 41 | **talk** /tɔk/ | conversar | talk/talks | talked | will talk | *Did you talk to him?* → *Yes, I did.* | Exchange ideas verbally. | 🗣️ Dialogue / Diálogo |
 | 42 | **speak** /spik/ | falar | speak/speaks | spoke | will speak | *Do you speak English?* → *Yes, I do.* | Produce oral language. | 📢 Expression / Expressão |
 | 43 | **tell** /tɛl/ | contar/dizer | tell/tells | told | will tell | *Did you tell her?* → *Yes, I told her.* | Inform or narrate something to someone. | 📖 Story / História |
@@ -99,7 +99,7 @@
 ## 4. Action Verbs (ID: 61-80)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 61 | **work** /wɜrk/ | trabalhar | work/works | worked | will work | *Do you work here?* → *Yes, I do.* | Perform productive activity. | 💼 Work / Trabalho |
 | 62 | **use** /juz/ | usar | use/uses | used | will use | *Did you use it?* → *Yes, I used it.* | Employ something for a purpose. | 🔧 Utility / Utilidade |
 | 63 | **find** /faɪnd/ | encontrar | find/finds | found | will find | *Did you find it?* → *Yes, I found it.* | Discover where something is. | 🔍 Discovery / Descoberta |
@@ -125,7 +125,7 @@
 ## 5. Feeling Verbs (ID: 81-100)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 81 | **feel** /fil/ | sentir | feel/feels | felt | will feel | *How do you feel?* → *I feel good.* | Perceive emotion or sensation. | ❤️ Emotion / Emoção |
 | 82 | **love** /lʌv/ | amar | love/loves | loved | will love | *Do you love her?* → *Yes, I do.* | Have strong deep affection. | 😍 Love / Amor |
 | 83 | **like** /laɪk/ | gostar | like/likes | liked | will like | *Do you like pizza?* → *Yes, I like it.* | Find pleasant. | 👍 Liking / Simpatia |
@@ -152,7 +152,7 @@
 ## 6. Work Verbs (ID: 101-120)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 101 | **buy** /baɪ/ | comprar | buy/buys | bought | will buy | *Did you buy food?* → *Yes, I did.* | Acquire by paying. | 🛍️ Purchase / Compra |
 | 102 | **sell** /sɛl/ | vender | sell/sells | sold | will sell | *Did you sell the car?* → *Yes, sold.* | Exchange for money. | 💰 Sale / Venda |
 | 103 | **pay** /peɪ/ | pagar | pay/pays | paid | will pay | *Did you pay the bill?* → *Yes, paid.* | Give money for service/product. | 💳 Payment / Pagamento |
@@ -179,7 +179,7 @@
 ## 7. Daily Life Verbs (ID: 121-140)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 121 | **eat** /it/ | comer | eat/eats | ate | will eat | *Did you eat?* → *Yes, I ate.* | Consume food. | 🍽️ Eating / Refeição |
 | 122 | **drink** /drɪŋk/ | beber | drink/drinks | drank | will drink | *Do you drink coffee?* → *No.* | Consume liquid. | 🥤 Drinking / Bebida |
 | 123 | **sleep** /slip/ | dormir | sleep/sleeps | slept | will sleep | *Did you sleep well?* → *Yes.* | Rest unconsciously. | 😴 Sleep / Sono |
@@ -206,7 +206,7 @@
 ## 8. Experience Verbs (ID: 141-160)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 141 | **see** /si/ | ver | see/sees | saw | will see | *Did you see it?* → *Yes, clearly.* | Perceive with vision. | 👀 Sight / Vista |
 | 142 | **seem** /sim/ | parecer | seem/seems | seemed | will seem | *It seems nice.* → *Yes, it does.* | Appear to be. | 🤔 Appearance / Aparência |
 | 143 | **appear** /əˈpɪr/ | aparecer | appear/appears | appeared | will appear | *Did he appear?* → *Yes, suddenly.* | Become visible. | 👻 Appearing / Aparição |
@@ -233,7 +233,7 @@
 ## 9. Conclusion Verbs (ID: 161-180)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 161 | **finish** /ˈfɪnɪʃ/ | terminar | finish/finishes | finished | will finish | *Did you finish?* → *Yes, done.* | Reach the end. | 🏁 End / Fim |
 | 162 | **end** /ɛnd/ | encerrar/acabar | end/ends | ended | will end | *When does it end?* → *At 5.* | Conclude something. | 🛑 Termination / Término |
 | 163 | **complete** /kəmˈplit/ | completar | complete/completes | completed | will complete | *Complete the form.* → *Okay.* | Make whole. | ✅ Completion / Conclusão |
@@ -260,7 +260,7 @@
 ## 10. Advanced Verbs (ID: 181-200)
 
 | ID | Verb | Translation | Present | Past | Future | Question + Answer | Explanation | Emotion |
-|-------|----------|----------|---------|--------|-------------------|-----------|--------|
+|-------|----------|----------|---------|--------|-------------------|-----------|--------|--------|
 | 181 | **analyze** /ˈænəˌlaɪz/ | analisar | analyze/analyzes | analyzed | will analyze | *Did you analyze it?* → *Yes, deeply.* | Examine carefully and in detail. | 🔬 Analysis / Análise |
 | 182 | **calculate** /ˈkælkjəˌleɪt/ | calcular | calculate/calculates | calculated | will calculate | *Can you calculate this?* → *Yes.* | Determine by mathematical means. | 🧮 Computation / Cálculo |
 | 183 | **compare** /kəmˈpɛr/ | comparar | compare/compares | compared | will compare | *Compare these two.* → *Okay.* | Examine similarities and differences. | ⚖️ Comparison / Comparação |
