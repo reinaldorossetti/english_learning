@@ -1,28 +1,33 @@
-# CURRICULUM VITAE
+# 📄 Curriculum Vitae — Reinaldo Mateus Rossetti Junior
 
 ---
 
-## Personal Information
+## 👤 Contact & Personal Information
 
-**Full Name:** Reinaldo Mateus Rossetti Junior
-**Date of Birth:** October 3, 1980 · **Marital Status:** Married
-**Address:** R. Amadeu Assad Yassim, 270 — Bacacheri, Curitiba — PR, Brazil, CEP 82520-800
-**Phone:** +55 19 97150-8381
-**Email:** reiload@gmail.com · reinaldo.rossetti@outlook.com
-**LinkedIn:** https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/
-**GitHub (Automation Projects):** https://github.com/reinaldorossetti
-**Medium / Blog:** https://reiload-88128.medium.com/ · http://reinaldorossetti.blogspot.com/
+| | |
+|---|---|
+| 📛 **Full Name** | Reinaldo Mateus Rossetti Junior |
+| 🎂 **Date of Birth** | October 3, 1980 |
+| 💍 **Marital Status** | Married |
+| 📍 **Address** | R. Amadeu Assad Yassim, 270 — Bacacheri, Curitiba — PR, Brazil · CEP 82520-800 |
+| 📞 **Phone** | +55 19 97150-8381 |
+| 📧 **E-mail** | reiload@gmail.com · reinaldo.rossetti@outlook.com |
+| 🔗 **LinkedIn** | https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/ |
+| 🐙 **GitHub** | https://github.com/reinaldorossetti |
+| ✍️ **Medium / Blog** | https://reiload-88128.medium.com/ · http://reinaldorossetti.blogspot.com/ |
 
 ---
 
-## Objective
+## 🎯 Professional Summary
 
 I hold a degree in Systems Analysis and specialize in the field of Testing and Quality Assurance. I consider myself a well-rounded QA professional in all areas, with over **15 years of experience** in systems testing across large-scale projects:
 
-- **7 years** — Mobile systems (Kotlin, Java, Angular/React, Flutter — Android & iOS)
-- **~1 year** — Desktop systems for Banking
-- **4 years** — Web systems (Java and Angular)
-- **~3 years** — Embedded systems (Linux + C, Python)
+| Platform | Experience |
+|----------|------------|
+| 📱 Mobile | **7 years** — Kotlin, Java, Angular/React, Flutter — Android & iOS |
+| 🖥️ Desktop | **~1 year** — Desktop systems for Banking |
+| 🌐 Web | **4 years** — Java and Angular |
+| 🔧 Embedded | **~3 years** — Embedded systems (Linux + C, Python) |
 
 I have extensive knowledge in **Security Testing** and **Test Automation**.
 
@@ -30,23 +35,22 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-## Top 5 Skills
+## 🏆 Core Competencies — Top 5 Skills
 
-1. **Training & Knowledge Transfer** — Proficient in delivering training sessions; projects well-documented with video and written guides.
-2. **Test Automation Specialist & Test Data Generation** — Proficient on Mobile / Web / API platforms:
-   - JavaScript · TypeScript · Cypress · Playwright
-   - Java · Kotlin · JUnit · Selenium · Appium
-   - Python · Robot Framework · Playwright · Selenium · Appium
-3. **Performance Testing** — JMeter IDE / JMeterDSL / K6
-4. **Super Proactive** — Always willing to help and unblock the team.
-5. **Goal-Oriented** — 100% of targets achieved.
+| # | Skill | Detail |
+|---|-------|--------|
+| 1 | 🎓 **Training & Knowledge Transfer** | Proficient in delivering training sessions; projects well-documented with video and written guides |
+| 2 | 🤖 **Test Automation & Data Generation** | Proficient on Mobile / Web / API: JavaScript · TypeScript · Cypress · Playwright · Java · Kotlin · JUnit · Selenium · Appium · Python · Robot Framework |
+| 3 | ⚡ **Performance Testing** | JMeter IDE / JMeterDSL / K6 |
+| 4 | 🤝 **Super Proactive** | Always willing to help and unblock the team |
+| 5 | 🎯 **Goal-Oriented** | 100% of targets achieved |
 
 ---
 
-## Education
+## 🎓 Academic Background
 
-| Degree | Institution | Year |
-|--------|-------------|------|
+| 📚 Degree | 🏫 Institution | 📅 Year |
+|-----------|---------------|---------|
 | Post-graduation in Mobile App Development *(in progress)* | PUC-PR | Current |
 | Post-graduation in Software Engineering | FUCAPI | 2012 |
 | Bachelor's in Systems Analysis | FUCAPI | 2006–2010 |
@@ -54,9 +58,10 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-## Main Courses & Certifications
+## 📜 Certifications & Continuing Education
 
-### Certifications
+### 🏅 Industry Certifications
+
 - 🏅 **IBM Certified Specialist** — Rational AppScan Standard Edition (Security Testing Tool)
 - 🏅 **IBM Rational Performance Tester** Certificate
 - 🏅 **IBM Functional Tester** Certificate (16h)
@@ -65,7 +70,8 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-### Test Automation
+### 🤖 Test Automation Courses
+
 | Course | Platform | Duration |
 |--------|----------|---------|
 | Mastering Modern Test Automation With Playwright In Java | Udemy | 11h |
@@ -83,7 +89,8 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-### Performance & Security Testing
+### ⚡ Performance & Security Testing Courses
+
 | Course | Platform | Duration |
 |--------|----------|---------|
 | Load and Stress Test Automation with JMeter | — | 15h |
@@ -93,7 +100,8 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-### Databases, Development & Software Environment
+### 🗄️ Databases, Development & Software Environment
+
 | Course | Platform |
 |--------|----------|
 | Learn Linux Administration | Udemy |
@@ -105,7 +113,8 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-### DevOps & Continuous Integration
+### 🚀 DevOps & Continuous Integration
+
 | Course | Platform |
 |--------|----------|
 | Continuous Integration: Docker Pipeline on GitHub Actions | Alura |
@@ -114,7 +123,8 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-### Functional Testing & Agile
+### 🧪 Functional Testing & Agile Methodologies
+
 | Course | Platform | Duration |
 |--------|----------|---------|
 | The Best Software Testing Training You Will Ever Get (Test Process, Test Strategy & Defect Management, V-Model, JIRA, HP QTP) | Udemy | 27h |
@@ -122,16 +132,16 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ---
 
-### CardMais — Quality Engineer / QA Analyst
-**Current Position · Curitiba, Brazil**
+### 🏢 CardMais — Quality Engineer / QA Analyst
+**🟢 Current Position · Curitiba, Brazil**
 
 Part of the mobile frontend team for a financial product, focused on product quality. The project uses a **native Flutter application** that generates both Android and iOS builds.
 
-**Responsibilities:**
+**📋 Key Responsibilities:**
 - Functional, Regression, Exploratory, API, and Integration Testing
 - Log collection and application debugging during development
 - Compiling and building the Flutter app for testing purposes
@@ -139,21 +149,21 @@ Part of the mobile frontend team for a financial product, focused on product qua
 - Automated testing on mobile devices and on API calls made by mobile devices
 - Testing with mocked code (development environment)
 
-**Work Methodology:** Scrum · YouTrack (JetBrains) · GitLab (Feature / Develop / Master branches)
+**⚙️ Work Methodology:** Scrum · YouTrack (JetBrains) · GitLab (Feature / Develop / Master branches)
 
-**Key Delivery:** PIX instant payment feature — the payment method created by the Central Bank of Brazil (BC) for real-time transfers between accounts.
+**🚀 Key Delivery:** PIX instant payment feature — the payment method created by the Central Bank of Brazil (BC) for real-time transfers between accounts.
 
-**Tools & Frameworks:**
+**🛠️ Tools & Frameworks:**
 `Playwright (Web)` · `VS Code` · `Android Studio` · `Appium + Robot Framework (Mobile)` · `Postman (API)` ·
 `Android` · `iOS` · `Android POS Terminal` · `Swagger` · `SQL (DBeaver + PostgreSQL)` ·
 `Python` · `Flutter` · `Java JDK` · `Requests` · `psycopg2`
 
 ---
 
-### Stefanini — SR QA Specialist *(Outsourced — On-site contract)*
-**March 2023 – January 2024 · ~1 year · Curitiba, Brazil**
+### 🏢 Stefanini — SR QA Specialist *(Outsourced — On-site contract)*
+**📅 March 2023 – January 2024 · ~1 year · Curitiba, Brazil**
 
-**Responsibilities:**
+**📋 Key Responsibilities:**
 - Conducted proof-of-concept evaluations to identify the best tools for the project
 - Delivered knowledge transfer sessions to the QA squad (Senior, Mid-level, and Junior engineers)
 - Planned and executed **performance tests**; analyzed results and suggested system improvements
@@ -162,17 +172,18 @@ Part of the mobile frontend team for a financial product, focused on product qua
 - Built **test data generators** to support manual and automated testing
 - Managed automated mobile testing via **BrowserStack Device Farm**
 
-**Frameworks:** `Robot Framework / Appium (Mobile)` · `Cypress / Playwright (Web & API)`
-**Languages:** `Python` · `JavaScript` · `TypeScript` · `Kotlin`
-**Tools:** `Jira` · `AWS` · `GitLab` · `JMeter` · `Docker / Containers`
-**Observability:** `DataDog` — metrics, logs, and dashboards for performance testing
+**🛠️ Frameworks:** `Robot Framework / Appium (Mobile)` · `Cypress / Playwright (Web & API)`
+**💻 Languages:** `Python` · `JavaScript` · `TypeScript` · `Kotlin`
+**🔧 Tools:** `Jira` · `AWS` · `GitLab` · `JMeter` · `Docker / Containers`
+**📡 Observability:** `DataDog` — metrics, logs, and dashboards for performance testing
 
 ---
 
-### Grupo Carbon Holding — PayGo & C6 Bank — SR Tech Engineer (QA Focus)
-**August 2021 – February 2023 · 1 year 5 months**
+### 🏢 Grupo Carbon Holding — PayGo & C6 Bank — SR Tech Engineer (QA Focus)
+**📅 August 2021 – February 2023 · 1 year 5 months**
 
-#### PayGo
+#### 💳 PayGo
+
 - Automation using **Kotlin** and **Python (Robot Framework)**
 - Integrated tests into the **GitHub Actions** CI pipeline
 - Used **Appium Page Factory** (with Selenium) for mobile automation
@@ -182,9 +193,10 @@ Part of the mobile frontend team for a financial product, focused on product qua
 - **Performance Testing** with JMeterDSL (Kotlin); test data generation in PostgreSQL with Kotlin
 - Scaled performance tests using **GitHub Actions**
 
-**Tools:** `Postman` · `JMeter` · `Locust` · `IntelliJ IDEA` · `VS Code` · `Git` · `Slack` · `Jira` · `Docker` · `Robot Framework` · `Android Studio`
+**🛠️ Tools:** `Postman` · `JMeter` · `Locust` · `IntelliJ IDEA` · `VS Code` · `Git` · `Slack` · `Jira` · `Docker` · `Robot Framework` · `Android Studio`
 
-#### C6 Bank — Checking Account Squad
+#### 🏦 C6 Bank — Checking Account Squad
+
 Transferred to the C6 Bank mobile squad, responsible for quality in a **high-complexity financial domain** (transfers, account balance, statements, and more).
 
 - Multi-layer testing support (including dev environment)
@@ -195,49 +207,49 @@ Transferred to the C6 Bank mobile squad, responsible for quality in a **high-com
 
 ---
 
-### Banco Itaú — Senior IT Analyst
-**May 2019 – July 2021 · 2 years 3 months**
+### 🏢 Banco Itaú — Senior IT Analyst
+**📅 May 2019 – July 2021 · 2 years 3 months**
 
 Responsible for the **entire test automation structure** for the Corporate Companies (Empresas PJ) area. Served as a **technical reference** and **code reviewer** for QA engineers across multiple squads.
 
-**Key Contributions:**
+**🏆 Key Contributions:**
 - Created the **Mobile PJ Automation Project** from scratch
 - Developed a new **Web Automation Framework in Kotlin** for the PJ Empresas portal
 - Achieved **zero production bugs** after establishing full regression coverage
 
-**Projects:**
+**📂 Projects:**
 - Sala de Integração *(100% Mobile)*
 - Evolução do Mobile *(100% Mobile)*
 - Squad Renegociação *(Mobile & Web)*
 
 ---
 
-### Spread Tecnologia — Senior Test Automator
-**December 2016 – November 2017**
+### 🏢 Spread Tecnologia — Senior Test Automator
+**📅 December 2016 – November 2017**
 
 Worked as a developer-tester, building automated test scripts for **B3** and **Dasa** projects.
 
-**Stack:** `Ruby` · `Cucumber` · `Selenium` · `Site Prism (Page Object DSL for Capybara)` · `Report Builder`
+**🛠️ Stack:** `Ruby` · `Cucumber` · `Selenium` · `Site Prism (Page Object DSL for Capybara)` · `Report Builder`
 
 ---
 
-### GAS Tecnologia — Test Developer Analyst II
-**2016**
+### 🏢 GAS Tecnologia — Test Developer Analyst II
+**📅 2016**
 
 Automated tests for **Desktop (Banking Security)**, Web, and Mobile applications. Focused on **BDD methodology**, exploratory testing, and pre-acceptance testing.
 
-**Stack:** `Python` · `Java` · `Behave` · `Cucumber` · `QuickBuild` · `Jenkins` · `Jira`
+**🛠️ Stack:** `Python` · `Java` · `Behave` · `Cucumber` · `QuickBuild` · `Jenkins` · `Jira`
 
 ---
 
-### GVT — Senior Telecom Analyst
-**October 2012 – September 2015 · ~3 years**
+### 🏢 GVT — Senior Telecom Analyst
+**📅 October 2012 – September 2015 · ~3 years**
 
 End-to-end testing on **Embedded Systems for Digital TV** and Mobile platforms. Handled both back-end and front-end testing.
 
-**Set-Top-Box models tested:** Sagemcom · Kaon · Pace · GVT Portal · FULL-FIT · GVT Freedom v2
+**📺 Set-Top-Box Models Tested:** Sagemcom · Kaon · Pace · GVT Portal · FULL-FIT · GVT Freedom v2
 
-**Responsibilities:**
+**📋 Key Responsibilities:**
 - Designed and executed automated tests for Digital TV (Storm Test Development Center)
 - Built automated reporting systems using **Python, PHP, MySQL, and Selenium**
 - Captured and analyzed network packets using **Wireshark**
@@ -247,16 +259,16 @@ End-to-end testing on **Embedded Systems for Digital TV** and Mobile platforms. 
 - API testing and test data automation
 - Bug management with **Bugzilla**, code versioning with **Git**, project management with **Scrum + Redmine**
 
-**Environment:** Linux Middleware · JavaScript/SVG Frontend · Storm Center on Windows
+**🖥️ Test Environment:** Linux Middleware · JavaScript/SVG Frontend · Storm Center on Windows
 
 ---
 
-### FUCAPI — Test Architect *(Mid-level)*
-**January 2010 – December 2012 · 1 year 11 months**
+### 🏢 FUCAPI — Test Architect *(Mid-level)*
+**📅 January 2010 – December 2012 · 1 year 11 months**
 
 Responsible for the full test lifecycle: strategy, estimation, execution, and reporting.
 
-**Deliverables Produced:**
+**📦 Deliverables Produced:**
 - Test Strategy Documents
 - Test Project Spreadsheets
 - Test Scenario Design
@@ -267,52 +279,54 @@ Responsible for the full test lifecycle: strategy, estimation, execution, and re
 - Test Elaboration and Execution Sheets (PCCET)
 - Test Data Management using Oracle Database
 
-**Tools:** `IBM Rational Performance Tester` · `JMeter` · `IBM AppScan` · `Acunetix` · `Oracle DB` · `Mantis` · `BadBoy` · `Rational Quality Manager`
+**🛠️ Tools:** `IBM Rational Performance Tester` · `JMeter` · `IBM AppScan` · `Acunetix` · `Oracle DB` · `Mantis` · `BadBoy` · `Rational Quality Manager`
 
-**Security:** Web security audits following **OWASP** standards · Penetration testing
+**🔒 Security:** Web security audits following **OWASP** standards · Penetration testing
 
-**Projects Participated:**
-- **Mercadoria Nacional – Suframa:** Receiving, Physical Inspection, Documentary Inspection, Internment
-- **Internal Systems:** SGDI WS, RM WS, SPE (Electronic Time Clock), CES (Entry/Exit Control), Performance Indicators, Alterations Mantis
-- **FUCAPI Portal:** Security Testing and Intrusion Audit
-- **Canal Azul:** Performance and Security Testing with **MPS.BR** compliance; Security Target drafting
-- FUCAPI Web Server
+**📂 Projects Participated:**
+- 🔹 **Mercadoria Nacional – Suframa:** Receiving, Physical Inspection, Documentary Inspection, Internment
+- 🔹 **Internal Systems:** SGDI WS, RM WS, SPE (Electronic Time Clock), CES (Entry/Exit Control), Performance Indicators, Alterations Mantis
+- 🔹 **FUCAPI Portal:** Security Testing and Intrusion Audit
+- 🔹 **Canal Azul:** Performance and Security Testing with **MPS.BR** compliance; Security Target drafting
+- 🔹 FUCAPI Web Server
 
 ---
 
-### Siemens Mobile — Junior IT Analyst
-**2005 – 2006 · 1 year 10 months**
+### 🏢 Siemens Mobile — Junior IT Analyst
+**📅 2005 – 2006 · 1 year 10 months**
 
 - Managed factory information system (PICS) in the production environment
 - Maintained production line computers (hardware and software)
 - Managed DHCP server and monitored IPs across production lines
 - Local system administrator for the factory information system
-- Development: `VBA` · `VB` · `PHP` · `MySQL`
+- 🛠️ Development: `VBA` · `VB` · `PHP` · `MySQL`
 
 ---
 
-### BenQ Mobile — Junior ITS Analyst
-**2006**
+### 🏢 BenQ Mobile — Junior ITS Analyst
+**📅 2006**
 
 - Implemented and maintained data management systems
-- Platforms: `C#` · `VB` · `VB.NET` · `Visual Basic Script` · `PHP`
-- Databases: `SQL Server 2000` · `MySQL`
+- 💻 Platforms: `C#` · `VB` · `VB.NET` · `Visual Basic Script` · `PHP`
+- 🗄️ Databases: `SQL Server 2000` · `MySQL`
 - Project analysis and technical documentation
 
 ---
 
-### TCE — Tribunal de Contas do Estado (State Court of Accounts) — IT Intern
-**2008 – 2009**
+### 🏢 TCE — Tribunal de Contas do Estado (State Court of Accounts) — IT Intern
+**📅 2008 – 2009**
 
-- **Ranked 1st** in the selection process (written exam + academic performance)
+- 🥇 **Ranked 1st** in the selection process (written exam + academic performance)
 - Network and hardware support on Windows and Linux environments
 - Installation and configuration of TCE systems
 - TCE Portal development using `Xoops` · `PHP 5` · `MySQL` · `Apache` · `CSS` · `XML` · `HTML`
 
 ---
 
-## Articles & Blog
+## ✍️ Published Articles & Online Presence
 
-- 📝 **Medium:** https://reiload-88128.medium.com/
-- 📝 **Blog:** http://reinaldorossetti.blogspot.com/
-- 🐙 **GitHub (Automation Projects):** https://github.com/reinaldorossetti
+| Platform | Link |
+|----------|------|
+| 📝 Medium | https://reiload-88128.medium.com/ |
+| 📝 Blog | http://reinaldorossetti.blogspot.com/ |
+| 🐙 GitHub (Automation Projects) | https://github.com/reinaldorossetti |
