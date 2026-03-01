@@ -190,70 +190,69 @@
 
 > Canais brasileiros que ensinam inglês — ótimos para quem está começando ou quer reforçar a base no idioma nativo.
 
-| Canal | Foco | Nível | Idioma |
-|-------|------|-------|--------|
-| [Slow English Podcast](https://www.youtube.com/@Slow_English_Podcast) | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês |
-| [Hello English Lovers](https://www.youtube.com/@helloenglishlovers) | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês |
-| [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 |
-| [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês |
-| [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês |
-| [Brother Bilíngue](https://www.youtube.com/@BrotherBilingue) | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês |
-| [Professor Kenny](https://www.youtube.com/@PROFESSORKENNYOFICIAL) | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês |
+| Canal | Foco | Nível | Idioma | 🔗 Link |
+|-------|------|-------|--------|--------|
+| [Slow English Podcast](https://www.youtube.com/@Slow_English_Podcast) | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@Slow_English_Podcast) |
+| [Hello English Lovers](https://www.youtube.com/@helloenglishlovers) | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@helloenglishlovers) |
+| [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 | [▶ YouTube](https://www.youtube.com/@aprendainglesozinho) |
+| [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@MatheusWernerJerke) |
+| [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@teacher-braun) |
+| [Brother Bilíngue](https://www.youtube.com/@BrotherBilingue) | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@BrotherBilingue) |
+| [Professor Kenny](https://www.youtube.com/@PROFESSORKENNYOFICIAL) | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@PROFESSORKENNYOFICIAL) |
 
 ---
 
 ### Best World English Channels — Learn from Native Speakers
 
-| Channel | Focus | Level | Language |
-|---------|-------|-------|----------|
-| [BBC Learning English](https://www.youtube.com/@bbclearningenglish) | Grammar, vocabulary, pronunciation, news | Beginner → Advanced | British 🇬🇧 |
-| [English with Lucy](https://www.youtube.com/@EnglishwithLucy) | Vocabulary, speaking, pronunciation tips | Intermediate → Advanced | British 🇬🇧 |
-| [Rachel's English](https://www.youtube.com/@rachelsenglish) | American pronunciation and accent reduction | Intermediate → Advanced | American 🇺🇸 |
-| [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa) | Natural conversation, fluency strategies | Intermediate | American 🇺🇸 |
-| [Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101) | Grammar, speaking, vocabulary in context | Beginner → Advanced | Australian 🇦🇺 |
-| [English Addict with Mr Steve](https://www.youtube.com/@EnglishAddict) | Daily conversation, idioms, slang | All levels | British 🇬🇧 |
-| [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Real TV dialogues, expressions, slang | Intermediate → Advanced | American 🇺🇸 |
-| [Shaw English Online](https://www.youtube.com/@ShawEnglish) | Conversation, business, pronunciation | Intermediate | American 🇺🇸 |
-| [EngVid](https://www.youtube.com/@engvid) | Grammar lessons with multiple teachers | All levels | Various |
-| [Confident English with Kirsty](https://www.youtube.com/@ConfidentEnglishWithKirsty) | Vocabulary, grammar, idioms | Beginner → Intermediate | Canadian 🇨🇦 |
+| Channel | Focus | Level | Language | 🔗 Link |
+|---------|-------|-------|----------|---------|
+| [BBC Learning English](https://www.youtube.com/@bbclearningenglish) | Grammar, vocabulary, pronunciation, news | Beginner → Advanced | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@bbclearningenglish) |
+| [English with Lucy](https://www.youtube.com/@EnglishwithLucy) | Vocabulary, speaking, pronunciation tips | Intermediate → Advanced | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@EnglishwithLucy) |
+| [Rachel's English](https://www.youtube.com/@rachelsenglish) | American pronunciation and accent reduction | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@rachelsenglish) |
+| [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa) | Natural conversation, fluency strategies | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SpeakEnglishWithVanessa) |
+| [Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101) | Grammar, speaking, vocabulary in context | Beginner → Advanced | Australian 🇦🇺 | [▶ YouTube](https://www.youtube.com/@EnglishClass101) |
+| [English Addict with Mr Steve](https://www.youtube.com/@EnglishAddict) | Daily conversation, idioms, slang | All levels | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@EnglishAddict) |
+| [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Real TV dialogues, expressions, slang | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@LearnEnglishWithTVSeries) |
+| [EngVid](https://www.youtube.com/@engvid) | Grammar lessons with multiple teachers | All levels | Various | [▶ YouTube](https://www.youtube.com/@engvid) |
+| [Confident English with Kirsty](https://www.youtube.com/@ConfidentEnglishWithKirsty) | Vocabulary, grammar, idioms | Beginner → Intermediate | Canadian 🇨🇦 | [▶ YouTube](https://www.youtube.com/@ConfidentEnglishWithKirsty) |
 
 ---
 
 ### 💼 Business & Professional English
 
-| Channel | Focus | Level | Language |
-|---------|-------|-------|----------|
-| [Business English Pod](https://www.youtube.com/@BusinessEnglishPod) | Business vocabulary, meetings, presentations | Intermediate → Advanced | American 🇺🇸 |
-| [To Fluency](https://www.youtube.com/@ToFluency) | Fluency for working professionals | Intermediate | British 🇬🇧 |
-| [English for Work](https://www.youtube.com/@EnglishforWork) | Workplace emails, calls, meetings | Intermediate | American 🇺🇸 |
-| [Speak Confident English](https://www.youtube.com/@SpeakConfidentEnglish) | Professional communication confidence | Intermediate → Advanced | American 🇺🇸 |
-| [Oxford Online English](https://www.youtube.com/@OxfordOnlineEnglish) | Grammar, professional email, presentations | All levels | British 🇬🇧 |
+| Channel | Focus | Level | Language | 🔗 Link |
+|---------|-------|-------|----------|---------|
+| [Business English Pod](https://www.youtube.com/@BusinessEnglishPod) | Business vocabulary, meetings, presentations | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@BusinessEnglishPod) |
+| [To Fluency](https://www.youtube.com/@ToFluency) | Fluency for working professionals | Intermediate | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@ToFluency) |
+| [English for Work](https://www.youtube.com/@EnglishforWork) | Workplace emails, calls, meetings | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@EnglishforWork) |
+| [Speak Confident English](https://www.youtube.com/@SpeakConfidentEnglish) | Professional communication confidence | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SpeakConfidentEnglish) |
+| [Oxford Online English](https://www.youtube.com/@OxfordOnlineEnglish) | Grammar, professional email, presentations | All levels | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@OxfordOnlineEnglish) |
 
 ---
 
 ### 💻 English for Tech & IT Professionals
 
-| Channel | Focus | Level | Language |
-|---------|-------|-------|----------|
-| [TechLead](https://www.youtube.com/@TechLead) | Tech career, coding interviews, communication in tech | Intermediate → Advanced | American 🇺🇸 |
-| [Traversy Media](https://www.youtube.com/@TraversyMedia) | Real dev tutorials — immersive English in programming | Intermediate | American 🇺🇸 |
-| [Forrest Knight](https://www.youtube.com/@forrestknight) | Tech job hunt, English in a software engineering career | Intermediate → Advanced | American 🇺🇸 |
-| [Clément Mihailescu](https://www.youtube.com/@AlgoExpert) | Software engineering interviews in English | Advanced | American 🇺🇸 |
-| [Nick White](https://www.youtube.com/@NickWhiteTech) | LeetCode walkthroughs in natural spoken English | Intermediate → Advanced | American 🇺🇸 |
-| [Fireship](https://www.youtube.com/@Fireship) | Fast-paced tech explanations in fluent English | Advanced | American 🇺🇸 |
-| [Hussein Nasser](https://www.youtube.com/@hnasr) | Backend, databases, architecture in English | Intermediate → Advanced | American 🇺🇸 |
+| Channel | Focus | Level | Language | 🔗 Link |
+|---------|-------|-------|----------|---------|
+| [TechLead](https://www.youtube.com/@TechLead) | Tech career, coding interviews, communication in tech | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@TechLead) |
+| [Traversy Media](https://www.youtube.com/@TraversyMedia) | Real dev tutorials — immersive English in programming | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@TraversyMedia) |
+| [Forrest Knight](https://www.youtube.com/@forrestknight) | Tech job hunt, English in a software engineering career | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@forrestknight) |
+| [Clément Mihailescu](https://www.youtube.com/@AlgoExpert) | Software engineering interviews in English | Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@AlgoExpert) |
+| [Nick White](https://www.youtube.com/@NickWhiteTech) | LeetCode walkthroughs in natural spoken English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@NickWhiteTech) |
+| [Fireship](https://www.youtube.com/@Fireship) | Fast-paced tech explanations in fluent English | Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Fireship) |
+| [Hussein Nasser](https://www.youtube.com/@hnasr) | Backend, databases, architecture in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@hnasr) |
 
 ---
 
 ### 🎯 Interview English
 
-| Channel | Focus | Level | Language |
-|---------|-------|-------|----------|
-| [Codemify](https://www.youtube.com/@Codemify) | Tech interview prep — coding, system design, and software engineering interviews in English | Intermediate → Advanced | American 🇺🇸 |
-| [Don Georgevich](https://www.youtube.com/@JobInterviewTools) | Job interview tips, how to answer in English | Intermediate → Advanced | American 🇺🇸 |
-| [Self Made Millennial](https://www.youtube.com/@SelfMadeMillennial) | Interview techniques and confident answers | Intermediate | American 🇺🇸 |
-| [Linda Raynier](https://www.youtube.com/@LindaRaynier) | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 |
-| [Jeff Su](https://www.youtube.com/@JeffSu) | Tech job interview tips, LinkedIn, communication | Intermediate | American 🇺🇸 |
+| Channel | Focus | Level | Language | 🔗 Link |
+|---------|-------|-------|----------|---------|
+| [Codemify](https://www.youtube.com/@Codemify) | Tech interview prep — coding, system design, and software engineering interviews in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Codemify) |
+| [Don Georgevich](https://www.youtube.com/@JobInterviewTools) | Job interview tips, how to answer in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@JobInterviewTools) |
+| [Self Made Millennial](https://www.youtube.com/@SelfMadeMillennial) | Interview techniques and confident answers | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SelfMadeMillennial) |
+| [Linda Raynier](https://www.youtube.com/@LindaRaynier) | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 | [▶ YouTube](https://www.youtube.com/@LindaRaynier) |
+| [Jeff Su](https://www.youtube.com/@JeffSu) | Tech job interview tips, LinkedIn, communication | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@JeffSu) |
 
 ---
 
@@ -261,10 +260,10 @@
 
 > Canais com histórias contadas em inglês — excelentes para desenvolver listening, vocabulário em contexto e fluência natural.
 
-| Channel | Focus | Level | Language |
-|---------|-------|-------|----------|
-| [Bookish 24/7](https://www.youtube.com/@Bookish24-7) | Storytime in English — books, fiction, and storytelling for immersive listening | Intermediate → Advanced | American 🇺🇸 |
-| [Paolo fromTOKYO](https://www.youtube.com/@PaolofromTOKYO) | Day-in-the-life vlogs and stories in natural conversational English | Intermediate | American 🇺🇸 |
+| Channel | Focus | Level | Language | 🔗 Link |
+|---------|-------|-------|----------|---------|
+| [Bookish 24/7](https://www.youtube.com/@Bookish24-7) | Storytime in English — books, fiction, and storytelling for immersive listening | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Bookish24-7) |
+| [Paolo fromTOKYO](https://www.youtube.com/@PaolofromTOKYO) | Day-in-the-life vlogs and stories in natural conversational English | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@PaolofromTOKYO) |
 
 ---
 
@@ -272,23 +271,23 @@
 
 ### 🔤 Vocabulary & Flashcards
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **Quizlet** | iOS / Android / Web | Ready-made vocabulary sets, matching games, learn mode | ✅ Free (basic) |
-| **Memrise** | iOS / Android | Vocabulary with real native speaker video clips | ✅ Free (basic) |
-| **Magoosh Vocabulary Builder** | iOS / Android | Advanced professional and academic vocabulary | ✅ Free |
-| **Vocabulary.com** | iOS / Android / Web | Adaptive vocabulary practice with context | ✅ Free (basic) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **Quizlet** | iOS / Android / Web | Ready-made vocabulary sets, matching games, learn mode | ✅ Free (basic) | [🔗 Site](https://quizlet.com) |
+| **Memrise** | iOS / Android | Vocabulary with real native speaker video clips | ✅ Free (basic) | [🔗 Site](https://www.memrise.com) |
+| **Magoosh Vocabulary Builder** | iOS / Android | Advanced professional and academic vocabulary | ✅ Free | [🔗 Site](https://magoosh.com/vocabulary/) |
+| **Vocabulary.com** | iOS / Android / Web | Adaptive vocabulary practice with context | ✅ Free (basic) | [🔗 Site](https://www.vocabulary.com) |
 
 ---
 
 ### 💬 Speaking & Conversation
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **Simpler** | iOS / Android | Structured English learning app with bite-sized lessons, speaking practice, and vocabulary building | ✅ Free (basic) |
-| **Duolingo** | iOS / Android | Daily speaking habit, gamified lessons, beginner–intermediate | ✅ Free (ads) |
-| **Babbel** | iOS / Android | Structured conversation lessons for professionals | 💰 Paid |
-| **ELSA Speak** | iOS / Android | AI-powered pronunciation coach and accent correction | ✅ Free (basic) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **Simpler** | iOS / Android | Structured English learning app with bite-sized lessons, speaking practice, and vocabulary building | ✅ Free (basic) | [🔗 Site](https://simpler.app) |
+| **Duolingo** | iOS / Android | Daily speaking habit, gamified lessons, beginner–intermediate | ✅ Free (ads) | [🔗 Site](https://www.duolingo.com) |
+| **Babbel** | iOS / Android | Structured conversation lessons for professionals | 💰 Paid | [🔗 Site](https://www.babbel.com) |
+| **ELSA Speak** | iOS / Android | AI-powered pronunciation coach and accent correction | ✅ Free (basic) | [🔗 Site](https://elsaspeak.com) |
 
 
 ---
@@ -297,12 +296,12 @@
 
 > Plataformas para aulas ao vivo com professores nativos ou certificados — ideais para praticar conversação real e acelerar a fluência.
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **Preply** | iOS / Android / Web | 1-on-1 lessons with certified tutors — choose by specialization (business, tech, interview prep) | 💰 Paid |
-| **Cambly** | iOS / Android / Web | On-demand video calls with native English speakers — no scheduling required | 💰 Paid |
-| **Open English** | iOS / Android / Web | Live group and private classes focused on professional English fluency for Latin Americans | 💰 Paid |
-| **italki** | iOS / Android / Web | Find affordable professional teachers or community tutors for personalized lessons | 💰 Paid (varies by tutor) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **Preply** | iOS / Android / Web | 1-on-1 lessons with certified tutors — choose by specialization (business, tech, interview prep) | 💰 Paid | [🔗 Site](https://preply.com) |
+| **Cambly** | iOS / Android / Web | On-demand video calls with native English speakers — no scheduling required | 💰 Paid | [🔗 Site](https://www.cambly.com) |
+| **Open English** | iOS / Android / Web | Live group and private classes focused on professional English fluency for Latin Americans | 💰 Paid | [🔗 Site](https://www.openenglish.com.br) |
+| **italki** | iOS / Android / Web | Find affordable professional teachers or community tutors for personalized lessons | 💰 Paid (varies by tutor) | [🔗 Site](https://www.italki.com) |
 
 ---
 
@@ -310,46 +309,46 @@
 
 > Aplicativos que usam inteligência artificial para simular conversas reais, corrigir pronúncia e personalizar o aprendizado — disponíveis 24h por dia.
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **Praktika** | iOS / Android | AI conversation practice with virtual characters — simulates real dialogues for speaking fluency | ✅ Free (basic) |
-| **Loora AI** | iOS / Android | AI English tutor that holds real-time voice conversations and gives instant pronunciation feedback | ✅ Free (basic) |
-| **BeeSpeaker** | iOS / Android | AI-powered speaking coach with interactive dialogues and personalized lessons for fluency | ✅ Free (basic) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **Praktika** | iOS / Android | AI conversation practice with virtual characters — simulates real dialogues for speaking fluency | ✅ Free (basic) | [🔗 Site](https://praktika.ai) |
+| **Loora AI** | iOS / Android | AI English tutor that holds real-time voice conversations and gives instant pronunciation feedback | ✅ Free (basic) | [🔗 Site](https://loora.ai) |
+| **BeeSpeaker** | iOS / Android | AI-powered speaking coach with interactive dialogues and personalized lessons for fluency | ✅ Free (basic) | [📲 Play Store](https://play.google.com/store/search?q=BeeSpeaker) |
 
 ---
 
 ### 🏢 Business & Professional English
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **LinkedIn Learning** | iOS / Android / Web | Business English, professional communication, presentation skills | 💰 Paid (free trial) |
-| **Coursera** | iOS / Android / Web | University-level English for professionals, writing and communication | ✅ Free (audit) |
-| **edX** | iOS / Android / Web | Business writing, report writing, professional English courses | ✅ Free (audit) |
-| **English Central** | iOS / Web | Video-based pronunciation with AI feedback | ✅ Free (basic) |
-| **Cake** | iOS / Android | Learn English through real YouTube clips and news | ✅ Free (basic) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **LinkedIn Learning** | iOS / Android / Web | Business English, professional communication, presentation skills | 💰 Paid (free trial) | [🔗 Site](https://www.linkedin.com/learning) |
+| **Coursera** | iOS / Android / Web | University-level English for professionals, writing and communication | ✅ Free (audit) | [🔗 Site](https://www.coursera.org) |
+| **edX** | iOS / Android / Web | Business writing, report writing, professional English courses | ✅ Free (audit) | [🔗 Site](https://www.edx.org) |
+| **English Central** | iOS / Web | Video-based pronunciation with AI feedback | ✅ Free (basic) | [🔗 Site](https://www.englishcentral.com) |
+| **Cake** | iOS / Android | Learn English through real YouTube clips and news | ✅ Free (basic) | [🔗 Site](https://mycake.me) |
 
 ---
 
 ### 🎧 Listening & Comprehension
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **Spotify** | iOS / Android | Tech podcasts in English (Syntax.fm, Software Engineering Daily, etc.) | ✅ Free (ads) |
-| **TED** | iOS / Android | High-quality talks by professionals — advanced vocabulary in context | ✅ Free |
-| **Podcast Addict** | Android | Subscribe to any English learning or tech podcast | ✅ Free |
-| **Pocketcasts** | iOS / Android | Best podcast player for focused listening on the go | ✅ Free (basic) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **Spotify** | iOS / Android | Tech podcasts in English (Syntax.fm, Software Engineering Daily, etc.) | ✅ Free (ads) | [🔗 Site](https://www.spotify.com) |
+| **TED** | iOS / Android | High-quality talks by professionals — advanced vocabulary in context | ✅ Free | [🔗 Site](https://www.ted.com) |
+| **Podcast Addict** | Android | Subscribe to any English learning or tech podcast | ✅ Free | [📲 Play Store](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) |
+| **Pocketcasts** | iOS / Android | Best podcast player for focused listening on the go | ✅ Free (basic) | [🔗 Site](https://www.pocketcasts.com) |
 
 ---
 
 ### 🖊️ Writing & Grammar
 
-| App | Platform | Best For | Cost |
-|-----|----------|----------|------|
-| **Grammarly** | iOS / Android / Web / VS Code | Real-time grammar, style, clarity correction in all your writing | ✅ Free (basic) |
-| **DeepL Write** | Web / Desktop | Rewrite your sentences in more natural, fluent English | ✅ Free |
-| **LanguageTool** | Web / VS Code Extension | Grammar and style checker with multilingual support | ✅ Free (basic) |
-| **Hemingway Editor** | Web / Desktop | Highlights complex sentences and weak phrases — forces clear writing | ✅ Free (web) |
-| **ProWritingAid** | Web / Desktop | Deep grammar and style feedback for professional documents | ✅ Free (basic) |
+| App | Platform | Best For | Cost | 🔗 Link |
+|-----|----------|----------|------|--------|
+| **Grammarly** | iOS / Android / Web / VS Code | Real-time grammar, style, clarity correction in all your writing | ✅ Free (basic) | [🔗 Site](https://www.grammarly.com) |
+| **DeepL Write** | Web / Desktop | Rewrite your sentences in more natural, fluent English | ✅ Free | [🔗 Site](https://www.deepl.com/write) |
+| **LanguageTool** | Web / VS Code Extension | Grammar and style checker with multilingual support | ✅ Free (basic) | [🔗 Site](https://languagetool.org) |
+| **Hemingway Editor** | Web / Desktop | Highlights complex sentences and weak phrases — forces clear writing | ✅ Free (web) | [🔗 Site](https://hemingwayapp.com) |
+| **ProWritingAid** | Web / Desktop | Deep grammar and style feedback for professional documents | ✅ Free (basic) | [🔗 Site](https://prowritingaid.com) |
 
 ---
 
