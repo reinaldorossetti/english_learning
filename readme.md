@@ -186,7 +186,23 @@
 
 ## 📺 YouTube Channels for English Learning
 
-### 🌍 General English Fluency
+### �🇷 Canais em Português — Aprenda Inglês
+
+> Canais brasileiros que ensinam inglês — ótimos para quem está começando ou quer reforçar a base no idioma nativo.
+
+| Canal | Foco | Nível | Idioma |
+|-------|------|-------|--------|
+| [Slow English Podcast](https://www.youtube.com/@Slow_English_Podcast) | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês |
+| [Hello English Lovers](https://www.youtube.com/@helloenglishlovers) | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês |
+| [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 |
+| [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês |
+| [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês |
+| [Brother Bilíngue](https://www.youtube.com/@BrotherBilingue) | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês |
+| [Professor Kenny](https://www.youtube.com/@PROFESSORKENNYOFICIAL) | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês |
+
+---
+
+### �🌍 General English Fluency
 
 | Channel | Focus | Level | Language |
 |---------|-------|-------|----------|
@@ -238,22 +254,6 @@
 | [Self Made Millennial](https://www.youtube.com/@SelfMadeMillennial) | Interview techniques and confident answers | Intermediate | American 🇺🇸 |
 | [Linda Raynier](https://www.youtube.com/@LindaRaynier) | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 |
 | [Jeff Su](https://www.youtube.com/@JeffSu) | Tech job interview tips, LinkedIn, communication | Intermediate | American 🇺🇸 |
-
----
-
-### 🇧🇷 Canais em Português — Aprenda Inglês
-
-> Canais brasileiros que ensinam inglês — ótimos para quem está começando ou quer reforçar a base no idioma nativo.
-
-| Canal | Foco | Nível | Idioma |
-|-------|------|-------|--------|
-| [Slow English Podcast](https://www.youtube.com/@Slow_English_Podcast) | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês |
-| [Hello English Lovers](https://www.youtube.com/@helloenglishlovers) | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês |
-| [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 |
-| [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês |
-| [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês |
-| [Brother Bilíngue](https://www.youtube.com/@BrotherBilingue) | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês |
-| [Professor Kenny](https://www.youtube.com/@PROFESSORKENNYOFICIAL) | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês |
 
 ---
 
