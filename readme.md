@@ -252,6 +252,8 @@
 | [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 |
 | [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês |
 | [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês |
+| [Brother Bilíngue](https://www.youtube.com/@BrotherBilingue) | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês |
+| [Professor Kenny](https://www.youtube.com/@PROFESSORKENNYOFICIAL) | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês |
 
 ---
 
