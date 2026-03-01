@@ -199,7 +199,7 @@
 | [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Real TV dialogues, expressions, slang | Intermediate → Advanced | American 🇺🇸 |
 | [Shaw English Online](https://www.youtube.com/@ShawEnglish) | Conversation, business, pronunciation | Intermediate | American 🇺🇸 |
 | [EngVid](https://www.youtube.com/@engvid) | Grammar lessons with multiple teachers | All levels | Various |
-| [JamesESL English Lessons](https://www.youtube.com/@JamesESL) | Vocabulary, grammar, idioms | Beginner → Intermediate | Canadian 🇨🇦 |
+| [Confident English with Kirsty](https://www.youtube.com/@ConfidentEnglishWithKirsty) | Vocabulary, grammar, idioms | Beginner → Intermediate | Canadian 🇨🇦 |
 
 ---
 
@@ -233,6 +233,7 @@
 
 | Channel | Focus | Level | Language |
 |---------|-------|-------|----------|
+| [Codemify](https://www.youtube.com/@Codemify) | Tech interview prep — coding, system design, and software engineering interviews in English | Intermediate → Advanced | American 🇺🇸 |
 | [Don Georgevich](https://www.youtube.com/@JobInterviewTools) | Job interview tips, how to answer in English | Intermediate → Advanced | American 🇺🇸 |
 | [Self Made Millennial](https://www.youtube.com/@SelfMadeMillennial) | Interview techniques and confident answers | Intermediate | American 🇺🇸 |
 | [Linda Raynier](https://www.youtube.com/@LindaRaynier) | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 |
