@@ -274,7 +274,6 @@
 
 | App | Platform | Best For | Cost |
 |-----|----------|----------|------|
-| **Anki** | iOS / Android / Desktop | Spaced-repetition flashcards — the most effective memory tool for verbs and vocab | ✅ Free (Android/Desktop) · 💰 iOS |
 | **Quizlet** | iOS / Android / Web | Ready-made vocabulary sets, matching games, learn mode | ✅ Free (basic) |
 | **Memrise** | iOS / Android | Vocabulary with real native speaker video clips | ✅ Free (basic) |
 | **Magoosh Vocabulary Builder** | iOS / Android | Advanced professional and academic vocabulary | ✅ Free |
@@ -286,13 +285,36 @@
 
 | App | Platform | Best For | Cost |
 |-----|----------|----------|------|
+| **Simpler** | iOS / Android | Structured English learning app with bite-sized lessons, speaking practice, and vocabulary building | ✅ Free (basic) |
 | **Duolingo** | iOS / Android | Daily speaking habit, gamified lessons, beginner–intermediate | ✅ Free (ads) |
 | **Babbel** | iOS / Android | Structured conversation lessons for professionals | 💰 Paid |
 | **ELSA Speak** | iOS / Android | AI-powered pronunciation coach and accent correction | ✅ Free (basic) |
-| **HelloTalk** | iOS / Android | Chat, voice, and video with native English speakers (language exchange) | ✅ Free (basic) |
-| **Tandem** | iOS / Android | Live video and text language exchange with native speakers | ✅ Free (basic) |
-| **Cambly** | iOS / Android | On-demand conversation practice with native tutors | 💰 Paid |
-| **Speeko** | iOS / Android | Public speaking and verbal confidence coaching | ✅ Free (basic) |
+
+
+---
+
+### � Live Tutoring & Online English Classes
+
+> Plataformas para aulas ao vivo com professores nativos ou certificados — ideais para praticar conversação real e acelerar a fluência.
+
+| App | Platform | Best For | Cost |
+|-----|----------|----------|------|
+| **Preply** | iOS / Android / Web | 1-on-1 lessons with certified tutors — choose by specialization (business, tech, interview prep) | 💰 Paid |
+| **Cambly** | iOS / Android / Web | On-demand video calls with native English speakers — no scheduling required | 💰 Paid |
+| **Open English** | iOS / Android / Web | Live group and private classes focused on professional English fluency for Latin Americans | 💰 Paid |
+| **italki** | iOS / Android / Web | Find affordable professional teachers or community tutors for personalized lessons | 💰 Paid (varies by tutor) |
+
+---
+
+### 🤖 AI-Powered English Learning
+
+> Aplicativos que usam inteligência artificial para simular conversas reais, corrigir pronúncia e personalizar o aprendizado — disponíveis 24h por dia.
+
+| App | Platform | Best For | Cost |
+|-----|----------|----------|------|
+| **Praktika** | iOS / Android | AI conversation practice with virtual characters — simulates real dialogues for speaking fluency | ✅ Free (basic) |
+| **Loora AI** | iOS / Android | AI English tutor that holds real-time voice conversations and gives instant pronunciation feedback | ✅ Free (basic) |
+| **BeeSpeaker** | iOS / Android | AI-powered speaking coach with interactive dialogues and personalized lessons for fluency | ✅ Free (basic) |
 
 ---
 
@@ -316,8 +338,6 @@
 | **TED** | iOS / Android | High-quality talks by professionals — advanced vocabulary in context | ✅ Free |
 | **Podcast Addict** | Android | Subscribe to any English learning or tech podcast | ✅ Free |
 | **Pocketcasts** | iOS / Android | Best podcast player for focused listening on the go | ✅ Free (basic) |
-| **YouTube** | iOS / Android | Watch channels from the list above with subtitles enabled | ✅ Free |
-| **Netflix** | iOS / Android | Watch tech movies/series in English with English subtitles | 💰 Paid |
 
 ---
 
