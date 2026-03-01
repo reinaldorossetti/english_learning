@@ -194,7 +194,7 @@
 | [English with Lucy](https://www.youtube.com/@EnglishwithLucy) | Vocabulary, speaking, pronunciation tips | Intermediate → Advanced | British 🇬🇧 |
 | [Rachel's English](https://www.youtube.com/@rachelsenglish) | American pronunciation and accent reduction | Intermediate → Advanced | American 🇺🇸 |
 | [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa) | Natural conversation, fluency strategies | Intermediate | American 🇺🇸 |
-| [mmmEnglish](https://www.youtube.com/@mmmEnglish) | Grammar, speaking, vocabulary in context | Beginner → Advanced | Australian 🇦🇺 |
+| [Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101) | Grammar, speaking, vocabulary in context | Beginner → Advanced | Australian 🇦🇺 |
 | [English Addict with Mr Steve](https://www.youtube.com/@EnglishAddict) | Daily conversation, idioms, slang | All levels | British 🇬🇧 |
 | [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Real TV dialogues, expressions, slang | Intermediate → Advanced | American 🇺🇸 |
 | [Shaw English Online](https://www.youtube.com/@ShawEnglish) | Conversation, business, pronunciation | Intermediate | American 🇺🇸 |
@@ -237,6 +237,31 @@
 | [Self Made Millennial](https://www.youtube.com/@SelfMadeMillennial) | Interview techniques and confident answers | Intermediate | American 🇺🇸 |
 | [Linda Raynier](https://www.youtube.com/@LindaRaynier) | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 |
 | [Jeff Su](https://www.youtube.com/@JeffSu) | Tech job interview tips, LinkedIn, communication | Intermediate | American 🇺🇸 |
+
+---
+
+### 🇧🇷 Canais em Português — Aprenda Inglês
+
+> Canais brasileiros que ensinam inglês — ótimos para quem está começando ou quer reforçar a base no idioma nativo.
+
+| Canal | Foco | Nível | Idioma |
+|-------|------|-------|--------|
+| [Slow English Podcast](https://www.youtube.com/@Slow_English_Podcast) | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês |
+| [Hello English Lovers](https://www.youtube.com/@helloenglishlovers) | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês |
+| [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 |
+| [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês |
+| [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês |
+
+---
+
+### 📖 English Stories & Immersive Listening
+
+> Canais com histórias contadas em inglês — excelentes para desenvolver listening, vocabulário em contexto e fluência natural.
+
+| Channel | Focus | Level | Language |
+|---------|-------|-------|----------|
+| [Bookish 24/7](https://www.youtube.com/@Bookish24-7) | Storytime in English — books, fiction, and storytelling for immersive listening | Intermediate → Advanced | American 🇺🇸 |
+| [Paolo fromTOKYO](https://www.youtube.com/@PaolofromTOKYO) | Day-in-the-life vlogs and stories in natural conversational English | Intermediate | American 🇺🇸 |
 
 ---
 
