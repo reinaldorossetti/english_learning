@@ -192,13 +192,13 @@
 
 | Canal | Foco | Nível | Idioma | 🔗 Link |
 |-------|------|-------|--------|--------|
-| [Slow English Podcast](https://www.youtube.com/@Slow_English_Podcast) | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@Slow_English_Podcast) |
-| [Hello English Lovers](https://www.youtube.com/@helloenglishlovers) | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@helloenglishlovers) |
-| [Aprenda Inglês Sozinho](https://www.youtube.com/@aprendainglesozinho) | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 | [▶ YouTube](https://www.youtube.com/@aprendainglesozinho) |
-| [Matheus Werner Jerke](https://www.youtube.com/@MatheusWernerJerke) | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@MatheusWernerJerke) |
-| [Teacher Braun](https://www.youtube.com/@teacher-braun) | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@teacher-braun) |
-| [Brother Bilíngue](https://www.youtube.com/@BrotherBilingue) | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@BrotherBilingue) |
-| [Professor Kenny](https://www.youtube.com/@PROFESSORKENNYOFICIAL) | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@PROFESSORKENNYOFICIAL) |
+| Slow English Podcast | Podcasts com inglês em ritmo lento e claro — ideal para treinar listening | Iniciante → Intermediário | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@Slow_English_Podcast) |
+| Hello English Lovers | Vocabulário, expressões e dicas práticas de inglês | Iniciante → Intermediário | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@helloenglishlovers) |
+| Aprenda Inglês Sozinho | Método de autoaprendizado, gramática e conversação | Iniciante → Intermediário | 🇧🇷 | [▶ YouTube](https://www.youtube.com/@aprendainglesozinho) |
+| Matheus Werner Jerke | Fluência, mentalidade e imersão no inglês | Intermediário → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@MatheusWernerJerke) |
+| Teacher Braun | Pronúncia americana, vocabulário e dicas de fluência | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@teacher-braun) |
+| Brother Bilíngue | Inglês para brasileiros com foco em fluência, cultura e expressões naturais | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@BrotherBilingue) |
+| Professor Kenny | Aulas de inglês com método prático, gramática e conversação do zero ao avançado | Iniciante → Avançado | 🇧🇷 + Inglês | [▶ YouTube](https://www.youtube.com/@PROFESSORKENNYOFICIAL) |
 
 ---
 
@@ -206,15 +206,15 @@
 
 | Channel | Focus | Level | Language | 🔗 Link |
 |---------|-------|-------|----------|---------|
-| [BBC Learning English](https://www.youtube.com/@bbclearningenglish) | Grammar, vocabulary, pronunciation, news | Beginner → Advanced | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@bbclearningenglish) |
-| [English with Lucy](https://www.youtube.com/@EnglishwithLucy) | Vocabulary, speaking, pronunciation tips | Intermediate → Advanced | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@EnglishwithLucy) |
-| [Rachel's English](https://www.youtube.com/@rachelsenglish) | American pronunciation and accent reduction | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@rachelsenglish) |
-| [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa) | Natural conversation, fluency strategies | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SpeakEnglishWithVanessa) |
-| [Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101) | Grammar, speaking, vocabulary in context | Beginner → Advanced | Australian 🇦🇺 | [▶ YouTube](https://www.youtube.com/@EnglishClass101) |
-| [English Addict with Mr Steve](https://www.youtube.com/@EnglishAddict) | Daily conversation, idioms, slang | All levels | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@EnglishAddict) |
-| [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Real TV dialogues, expressions, slang | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@LearnEnglishWithTVSeries) |
-| [EngVid](https://www.youtube.com/@engvid) | Grammar lessons with multiple teachers | All levels | Various | [▶ YouTube](https://www.youtube.com/@engvid) |
-| [Confident English with Kirsty](https://www.youtube.com/@ConfidentEnglishWithKirsty) | Vocabulary, grammar, idioms | Beginner → Intermediate | Canadian 🇨🇦 | [▶ YouTube](https://www.youtube.com/@ConfidentEnglishWithKirsty) |
+| BBC Learning English | Grammar, vocabulary, pronunciation, news | Beginner → Advanced | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@bbclearningenglish) |
+| English with Lucy | Vocabulary, speaking, pronunciation tips | Intermediate → Advanced | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@EnglishwithLucy) |
+| Rachel's English | American pronunciation and accent reduction | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@rachelsenglish) |
+| Speak English With Vanessa | Natural conversation, fluency strategies | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SpeakEnglishWithVanessa) |
+| Learn English with EnglishClass101.com | Grammar, speaking, vocabulary in context | Beginner → Advanced | Australian 🇦🇺 | [▶ YouTube](https://www.youtube.com/@EnglishClass101) |
+| English Addict with Mr Steve | Daily conversation, idioms, slang | All levels | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@EnglishAddict) |
+| Learn English with TV Series | Real TV dialogues, expressions, slang | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@LearnEnglishWithTVSeries) |
+| EngVid | Grammar lessons with multiple teachers | All levels | Various | [▶ YouTube](https://www.youtube.com/@engvid) |
+| Confident English with Kirsty | Vocabulary, grammar, idioms | Beginner → Intermediate | Canadian 🇨🇦 | [▶ YouTube](https://www.youtube.com/@ConfidentEnglishWithKirsty) |
 
 ---
 
@@ -222,11 +222,11 @@
 
 | Channel | Focus | Level | Language | 🔗 Link |
 |---------|-------|-------|----------|---------|
-| [Business English Pod](https://www.youtube.com/@BusinessEnglishPod) | Business vocabulary, meetings, presentations | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@BusinessEnglishPod) |
-| [To Fluency](https://www.youtube.com/@ToFluency) | Fluency for working professionals | Intermediate | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@ToFluency) |
-| [English for Work](https://www.youtube.com/@EnglishforWork) | Workplace emails, calls, meetings | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@EnglishforWork) |
-| [Speak Confident English](https://www.youtube.com/@SpeakConfidentEnglish) | Professional communication confidence | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SpeakConfidentEnglish) |
-| [Oxford Online English](https://www.youtube.com/@OxfordOnlineEnglish) | Grammar, professional email, presentations | All levels | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@OxfordOnlineEnglish) |
+| Business English Pod | Business vocabulary, meetings, presentations | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@BusinessEnglishPod) |
+| To Fluency | Fluency for working professionals | Intermediate | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@ToFluency) |
+| English for Work | Workplace emails, calls, meetings | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@EnglishforWork) |
+| Speak Confident English | Professional communication confidence | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SpeakConfidentEnglish) |
+| Oxford Online English | Grammar, professional email, presentations | All levels | British 🇬🇧 | [▶ YouTube](https://www.youtube.com/@OxfordOnlineEnglish) |
 
 ---
 
@@ -234,13 +234,13 @@
 
 | Channel | Focus | Level | Language | 🔗 Link |
 |---------|-------|-------|----------|---------|
-| [TechLead](https://www.youtube.com/@TechLead) | Tech career, coding interviews, communication in tech | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@TechLead) |
-| [Traversy Media](https://www.youtube.com/@TraversyMedia) | Real dev tutorials — immersive English in programming | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@TraversyMedia) |
-| [Forrest Knight](https://www.youtube.com/@forrestknight) | Tech job hunt, English in a software engineering career | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@forrestknight) |
-| [Clément Mihailescu](https://www.youtube.com/@AlgoExpert) | Software engineering interviews in English | Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@AlgoExpert) |
-| [Nick White](https://www.youtube.com/@NickWhiteTech) | LeetCode walkthroughs in natural spoken English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@NickWhiteTech) |
-| [Fireship](https://www.youtube.com/@Fireship) | Fast-paced tech explanations in fluent English | Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Fireship) |
-| [Hussein Nasser](https://www.youtube.com/@hnasr) | Backend, databases, architecture in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@hnasr) |
+| TechLead | Tech career, coding interviews, communication in tech | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@TechLead) |
+| Traversy Media | Real dev tutorials — immersive English in programming | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@TraversyMedia) |
+| Forrest Knight | Tech job hunt, English in a software engineering career | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@forrestknight) |
+| Clément Mihailescu | Software engineering interviews in English | Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@AlgoExpert) |
+| Nick White | LeetCode walkthroughs in natural spoken English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@NickWhiteTech) |
+| Fireship | Fast-paced tech explanations in fluent English | Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Fireship) |
+| Hussein Nasser | Backend, databases, architecture in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@hnasr) |
 
 ---
 
@@ -248,11 +248,11 @@
 
 | Channel | Focus | Level | Language | 🔗 Link |
 |---------|-------|-------|----------|---------|
-| [Codemify](https://www.youtube.com/@Codemify) | Tech interview prep — coding, system design, and software engineering interviews in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Codemify) |
-| [Don Georgevich](https://www.youtube.com/@JobInterviewTools) | Job interview tips, how to answer in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@JobInterviewTools) |
-| [Self Made Millennial](https://www.youtube.com/@SelfMadeMillennial) | Interview techniques and confident answers | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SelfMadeMillennial) |
-| [Linda Raynier](https://www.youtube.com/@LindaRaynier) | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 | [▶ YouTube](https://www.youtube.com/@LindaRaynier) |
-| [Jeff Su](https://www.youtube.com/@JeffSu) | Tech job interview tips, LinkedIn, communication | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@JeffSu) |
+| Codemify | Tech interview prep — coding, system design, and software engineering interviews in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Codemify) |
+| Don Georgevich | Job interview tips, how to answer in English | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@JobInterviewTools) |
+| Self Made Millennial | Interview techniques and confident answers | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@SelfMadeMillennial) |
+| Linda Raynier | Career coaching, interview phrases | Intermediate → Advanced | North American 🇨🇦 | [▶ YouTube](https://www.youtube.com/@LindaRaynier) |
+| Jeff Su | Tech job interview tips, LinkedIn, communication | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@JeffSu) |
 
 ---
 
@@ -262,8 +262,8 @@
 
 | Channel | Focus | Level | Language | 🔗 Link |
 |---------|-------|-------|----------|---------|
-| [Bookish 24/7](https://www.youtube.com/@Bookish24-7) | Storytime in English — books, fiction, and storytelling for immersive listening | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Bookish24-7) |
-| [Paolo fromTOKYO](https://www.youtube.com/@PaolofromTOKYO) | Day-in-the-life vlogs and stories in natural conversational English | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@PaolofromTOKYO) |
+| Bookish 24/7 | Storytime in English — books, fiction, and storytelling for immersive listening | Intermediate → Advanced | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@Bookish24-7) |
+| Paolo fromTOKYO | Day-in-the-life vlogs and stories in natural conversational English | Intermediate | American 🇺🇸 | [▶ YouTube](https://www.youtube.com/@PaolofromTOKYO) |
 
 ---
 
