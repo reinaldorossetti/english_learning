@@ -368,7 +368,6 @@
 | | |
 |---|---|
 | 📍 Location | Curitiba, PR — Brazil |
-| 📞 Phone | +55 19 97150-8381 |
 | 📧 E-mail | [reiload@gmail.com](mailto:reiload@gmail.com) |
 | 🔗 LinkedIn | [linkedin.com/in/reinaldo-mateus-rossetti-a28a5423](https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/) |
 | 🐙 GitHub | [github.com/reinaldorossetti](https://github.com/reinaldorossetti) |
