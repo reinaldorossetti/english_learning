@@ -240,7 +240,7 @@
 | 8 | **identified** | *"I identified a race condition in the checkout flow."* |
 | 9 | **introduced** | *"I introduced visual regression testing."* |
 | 10 | **collaborated** | *"I collaborated with the DevOps team on CI pipelines."* |
-| 11 | **mentored** | *"I mentored two junior QA engineers."* |
+| 11 | **mentored** | *"I mentored two juniors and pleno QA engineers."* |
 | 12 | **designed** | *"I designed the test architecture for the new platform."* |
 | 13 | **established** | *"I established our first QA coding standards."* |
 | 14 | **streamlined** | *"I streamlined the release process with smoke tests."* |
