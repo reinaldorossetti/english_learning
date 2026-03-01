@@ -186,7 +186,7 @@
 
 ## 📺 YouTube Channels for English Learning
 
-### �🇷 Canais em Português — Aprenda Inglês
+### BR Canais em Português — Aprenda Inglês
 
 > Canais brasileiros que ensinam inglês — ótimos para quem está começando ou quer reforçar a base no idioma nativo.
 
@@ -202,7 +202,7 @@
 
 ---
 
-### �🌍 General English Fluency
+### Best World English Channels — Learn from Native Speakers
 
 | Channel | Focus | Level | Language |
 |---------|-------|-------|----------|
