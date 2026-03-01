@@ -292,7 +292,7 @@
 
 ---
 
-### � Live Tutoring & Online English Classes
+### 🎓 Live Tutoring & Online English Classes
 
 > Plataformas para aulas ao vivo com professores nativos ou certificados — ideais para praticar conversação real e acelerar a fluência.
 
