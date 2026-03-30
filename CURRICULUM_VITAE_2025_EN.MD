@@ -162,7 +162,7 @@ Part of the mobile frontend team for a financial product, focused on product qua
 ---
 
 ### 🏢 Stefanini — SR QA Specialist *(Outsourced — On-site contract)*
-**📅 March 2023 – Set 2024 · ~1 year 7 months**
+**📅 March 2023 – Set 2024 · ~1 year 6 months**
 
 **📋 Key Responsibilities:**
 - Conducted proof-of-concept evaluations to identify the best tools for the project
