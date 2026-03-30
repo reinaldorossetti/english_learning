@@ -138,7 +138,7 @@ I have worked in several financial sector projects at **Itaú, C6 Bank, Sodexo, 
 
 ### 🏢 CardMais — Quality Engineer / QA Analyst
 **🟢 Current Position · Curitiba, Brazil**
-**📅 Set 2024 - March 2026 – · ~1 year 6 months**
+**📅 Apr 2024 - March 2026 – · ~2 year**
 
 Part of the mobile frontend team for a financial product, focused on product quality. The project uses a **native Flutter application** that generates both Android and iOS builds.
 
