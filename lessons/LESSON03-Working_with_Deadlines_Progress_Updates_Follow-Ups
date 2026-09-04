@@ -1,0 +1,204 @@
+# Lesson 03 — Deadlines, Progress Updates & Follow-Ups
+
+> **Level:** Upper-intermediate / Professional English  
+> **Context:** Software Engineering, QA and Agile Delivery  
+> **Format:** Vocabulary, grammar, pronunciation and speaking practice
+
+This lesson develops the language needed to report progress, manage deadlines, communicate blockers and coordinate follow-ups in professional QA and software-engineering contexts. It includes answer keys, grammar explanations, Brazilian Portuguese pronunciation guides and speaking practice for daily stand-ups.
+
+## Learning objectives
+
+By the end of this lesson, you should be able to:
+
+- report what you are currently working on;
+- describe whether a project is on schedule;
+- communicate blockers and dependencies objectively;
+- follow up with stakeholders and close action items;
+- provide concise, confident updates during stand-up meetings.
+
+## Contents
+
+1. [Lesson overview](#1-lesson-overview-deadlines-updates--follow-ups)
+2. [Exercise solutions and answer key](#2-exercise-solutions--answer-key)
+3. [Core sentence explanations](#3-core-sentence-explanations)
+4. [QA Engineering Q&A matrix](#4-qa-engineering-qa-matrix)
+5. [Speaking and fluency challenge](#5-speaking--fluency-challenge)
+
+---
+
+## 1. 📌 Lesson Overview — Deadlines, Updates & Follow-Ups
+
+Professional communication across software engineering, quality assurance, and agile delivery centers around four functional communication pillars:
+
+* ⚡ **Current Execution Status:** Articulating immediate priorities and ongoing activities using structured progressive chunks (e.g., `I'm currently working on...`).
+* ⏱️ **Schedule & Cadence Management:** Transparently reporting timeline status—whether tasks are progressing as planned (`on track`), delayed (`behind schedule`), or recovered after impediment remediation (`back on track`).
+* 🚧 **Blocker & Dependency Escalation:** Objectively highlighting external dependencies without friction or hostility (e.g., `I'm still waiting for...`).
+* 🔄 **Action Item Governance:** Coordinating proactive alignment through structured checkpoints (`follow up on`) and formally closing discussion loops or delivery milestones (`wrap up`).
+
+---
+
+## 2. 📋 Exercise Solutions & Answer Key
+
+### Section A: Choose the Correct Option
+
+| # | Sentence Context | Correct Selection | Pronúncia Aproximada (PT-BR) | Rationale |
+|---|---|---|---|---|
+| **1** | I'm currently (...) the client presentation. | **`working on`** | *"uâr-king on"* | Indicates current active effort or drafting process. |
+| **2** | We need to (...) the quotation with the supplier. | **`follow up on`** | *"fó-lou âp on"* | Indicates checking the status of a topic or deliverable with an external party. |
+| **3** | The team is (...) to finish on Friday. | **`on track`** | *"on trék"* | Describes adhering strictly to planned release timelines. |
+| **4** | We have already (...) the testing phase. | **`wrapped up`** | *"répt âp"* | Denotes successful conclusion and packaging of a milestone. |
+| **5** | The next step is to (...). | **`provide an update`** | *"prou-vái-dân âp-dêit"* | Collocation expressing sharing current project status with stakeholders. |
+| **6** | I'm still waiting (...). | **`for approval`** | *"fór â-prú-val"* | The verb 'wait' requires the preposition 'for' before an object. |
+| **7** | We need to (...). | **`make progress`** | *"mêik pró-grês"* | Standard English verb-noun collocation for moving forward. |
+| **8** | The client asked us to (...). | **`follow up`** | *"fó-lou âp"* | Standard phrasal verb meaning to re-contact or verify pending items. |
+| **9** | We are slightly (...). | **`behind schedule`** | *"bi-ráin-di ské-djul"* | Idiomatic expression for being delayed relative to the project plan. |
+| **10** | Let's (...) today's meeting. | **`wrap up`** | *"rép âp"* | Corporate phrasal verb meaning to bring an event or meeting to an end. |
+
+---
+
+### Section B: Box Completion
+
+| # | Target Sentence | Pronúncia em Português |
+|---|---|---|
+| **1** | I'm currently **`working on`** the migration project. | *"aim kâ-ren-tli uâr-king on da mai-grêi-xan pró-djêkt"* |
+| **2** | We need to **`follow up with`** the client tomorrow. | *"ui níd tu fó-lou âp uid da klái-ênt tu-mó-rou"* |
+| **3** | Let's **`wrap up`** the meeting before lunch. | *"léts rép âp da mí-ting bi-fór lântch"* |
+| **4** | We're still **`waiting for`** approval from Finance. | *"uír stil uêi-ting fór â-prú-val frôm fái-nens"* |
+| **5** | Our team continues to **`make progress`** every week. | *"áu-er tím kon-tí-nius tu mêik pró-grês év-ri uík"* |
+
+---
+
+### Section C: Idiom Placement
+
+| # | Context & Applied Idiom | Pronúncia em Português | Professional Meaning |
+|---|---|---|---|
+| **1** | After fixing the bug, we're finally **`back on track`**. | *"áf-ter fík-sing da bâg, uír fái-na-li bék on trék"* | Returned to schedule after an unexpected blocker. |
+| **2** | Please keep me **`in the loop`** about the new requirements. | *"plíz kíp mi in da lúp â-báut da niu ri-kuái-er-ments"* | Continuously informed and included in email chains/updates. |
+| **3** | Everything is **`on track`** for next week's release. | *"év-ri-ting iz on trék fór nékst uíks ri-lís"* | Proceeding precisely on schedule without critical defects. |
+| **4** | We are slightly **`behind schedule`** because of the server issue. | *"ui ár slái-tli bi-ráin-di ské-djul bi-kóz ov da sér-ver í-xiu"* | Delayed due to infrastructure impediments. |
+| **5** | **`Moving forward`**, we'll focus on performance improvements. | *"mú-ving fór-uard, uil fóu-kas on per-fór-mans im-prúv-ments"* | From this point onward / next strategic focus. |
+
+---
+
+### Section D: Collocations
+
+* 🎯 **`meet a deadline`**: *"mít â déd-lain"* — To finish required deliverables on or before the agreed date.
+* ⚠️ **`miss a deadline`**: *"mís â déd-lain"* — To fail to deliver work within the committed timebox.
+* 📢 **`provide an update`**: *"prou-vái-dân âp-dêit"* — To formally summarize current progress to colleagues or managers.
+* 📈 **`make progress`**: *"mêik pró-grês"* — To advance work closer to full completion.
+* ✅ **`complete a task`**: *"kôm-plít â tésk"* — To execute and finish an assigned item from the sprint backlog.
+
+---
+
+### Section E & F: Sentence Restructuring & Word Ordering
+
+* **E1:** **`I'm currently working on`** the dashboard.  
+  ↳ *"aim kâ-ren-tli uâr-king on da déx-bórd"*
+* **E2:** **`I've already finished`** the documentation.  
+  ↳ *"aiv ól-ré-di fí-nix-ti da do-kiu-men-têi-xan"*
+* **E3:** **`I'm still waiting for`** the manager's approval.  
+  ↳ *"aim stil uêi-ting fór da mé-na-djers â-prú-val"*
+* **E4:** **`The next step is`** to start testing tomorrow.  
+  ↳ *"da nékst stêp iz tu stárt tés-ting tu-mó-rou"*
+* **E5:** **`We're making progress on`** the project every day.  
+  ↳ *"uír mêi-king pró-grês on da pró-djêkt év-ri dêi"*
+* **F1:** **`I'm currently working on`** the report.  
+  ↳ *"aim kâ-ren-tli uâr-king on da ri-pórt"*
+* **F2:** **`We're still waiting for`** approval.  
+  ↳ *"uír stil uêi-ting fór â-prú-val"*
+* **F3:** **`I'll follow up with`** the client tomorrow.  
+  ↳ *"ail fó-lou âp uid da klái-ênt tu-mó-rou"*
+* **F4:** **`The project is making good progress.`**  
+  ↳ *"da pró-djêkt iz mêi-king gud pró-grês"*
+* **F5:** **`The next step is testing.`**  
+  ↳ *"da nékst stêp iz tés-ting"*
+
+---
+
+## 3. 💡 Core Sentence Explanations
+
+Corporate fluency relies on mastering conversational anchors called **lexical chunks**. Below are in-depth technical explanations of the core grammar structures with pronunciation breakdowns:
+
+### 3.1 💻 `I'm currently working on...` [aim kâ-ren-tli uâr-king on]
+* **Structural Breakdown:** Subject (I) + Present Continuous auxiliary (am) + Temporal Adverb (currently) + Phrasal Verb (working on) + Object [Noun / Gerund].
+* **Professional Function:** This structure serves as the standard, authoritative opening in stand-ups. It signals immediate focus while establishing ownership. Grammatically, 'on' is a preposition; therefore, when followed by an action, the verb must take the *-ing* gerund form (e.g., *working on automating the login test suite*).
+
+### 3.2 🚦 `Everything is on track / We are behind schedule / We are back on track`
+* **Pronunciation:** *"év-ri-ting iz on trék" / "ui ár bi-ráin-di ské-djul" / "ui ár bék on trék"*
+* **Structural Breakdown:** State Verb (to be) + Prepositional Idiomatic Phrase.
+* **Professional Function:** Built upon the railway metaphor where 'track' represents the intended route and timetable:
+  * 🟢 **`On track`:** The initiative is running precisely according to the sprint plan and burn-down chart.
+  * 🔴 **`Behind schedule`:** The sprint scope is lagging due to blockers, defect slippage, or underestimated story points.
+  * 🔵 **`Back on track`:** Equilibrium and schedule compliance have been re-established following the resolution of an incident or impediment.
+
+### 3.3 ⏳ `I'm still waiting for [approval / environment / fix]` [aim stil uêi-ting fór]
+* **Structural Breakdown:** Subject + Auxiliary + Aspectual Adverb (still) + Verb (waiting) + Mandatory Preposition (for) + Direct Object.
+* **Professional Function:** Used to articulate dependencies objectively. Crucially, non-native speakers often produce the erroneous phrase *"waiting the approval"*. In English, *wait* is intransitive and requires the preposition **for** when connecting to an expected object or event.
+
+### 3.4 📞 `We need to follow up on...` [ui níd tu fó-lou âp on]
+* **Structural Breakdown:** Modal necessity (need to) + Phrasal Verb (follow up) + Preposition (on/with) + Object.
+* **Professional Function:** Designates active coordination and professional accountability. Use *follow up on* when referring to a topic, ticket, or deliverable (*follow up on the defect ticket*), and *follow up with* when referencing an individual or external stakeholder (*follow up with the lead developer*).
+
+### 3.5 📦 `Let's wrap up [the meeting / testing phase]...` [léts rép âp]
+* **Structural Breakdown:** Hortative contraction (Let us) + Separable Phrasal Verb (wrap up) + Direct Object.
+* **Professional Function:** Originating from the physical act of packaging or securing an item, in corporate vernacular it signifies finalization, synthesis, and closure. It indicates that no new discussion topics should be introduced.
+
+---
+
+## 4. 🧪 QA Engineering Q&A Matrix
+
+This interactive matrix pairs every core verb, idiom, and collocation directly with real-world Quality Assurance engineering routines, along with tailored pronunciation keys (guia fonético para falantes de português):
+
+| Category & Icon | Scrum / QA Question | Professional QA Answer & Phonetics |
+|---|---|---|
+| 💻 **`Working on`**<br>`[uâr-king on]`<br>• Active Execution | *"What specific test suite are you working on in this sprint?"*<br><small>`[uót spe-sí-fik tést suít ár iu uâr-king on in dis sprint?]`</small> | "**`I'm currently working on`** creating end-to-end automated test scripts for the checkout flow in Playwright."<br><br>**Fonética:** *"aim kâ-ren-tli uâr-king on kri-êi-ting énd-tu-énd ó-to-mêi-ted tést skríp-ts fór da tché-kaut flôu in Plêi-ráit."* |
+| 📦 **`Wrap up`**<br>`[rép âp]`<br>• Finalizing Tasks | *"When will the QA team wrap up the regression cycle?"*<br><small>`[uên uil da kiu-êi tím rép âp da ri-gré-xan sái-kol?]`</small> | "We expect to **`wrap up`** the entire regression execution by 4:00 PM once the sanity check passes."<br><br>**Fonética:** *"ui eks-pékt tu rép âp di en-tái-er ri-gré-xan ék-se-kiú-xan bai fór pi-ém uâns da sé-ni-ti tchék pé-sez."* |
+| 📞 **`Follow up on`**<br>`[fó-lou âp on]`<br>• Status Verification | *"Did you follow up on that critical payment gateway bug?"*<br><small>`[díd iu fó-lou âp on dét krí-ti-kol pêi-ment guêit-uêi bâg?]`</small> | "Yes, I will **`follow up on`** that blocker with the backend tech lead during the triage meeting."<br><br>**Fonética:** *"iês, ai uil fó-lou âp on dét bló-ker uid da bék-énd ték líd diú-ring da tri-ádj mí-ting."* |
+| ⏳ **`Waiting for`**<br>`[uêi-ting fór]`<br>• Blocker Escalation | *"What are you waiting for before starting performance testing?"*<br><small>`[uót ár iu uêi-ting fór bi-fór stár-ting per-fór-mans tés-ting?]`</small> | "**`I'm still waiting for`** DevOps to deploy the latest release build to the staging environment."<br><br>**Fonética:** *"aim stil uêi-ting fór Dév-óps tu di-plói da lêi-têst ri-lís bíld tu da stêi-djing en-vái-ron-ment."* |
+| 📈 **`Make progress`**<br>`[mêik pró-grês]`<br>• Advancing Scope | *"Are we making progress on automated test coverage?"*<br><small>`[ár ui mêi-king pró-grês on ó-to-mêi-ted tést kó-ve-redj?]`</small> | "Yes, our team continues to **`make progress`**, reaching 85% coverage across all API endpoints this week."<br><br>**Fonética:** *"iês, áu-er tím kon-tí-nius tu mêik pró-grês, rí-tching éi-ti fáiv per-sént kó-ve-redj â-krós ól êi-pi-ái énd-póints dis uík."* |
+| 🟢 **`On track`**<br>`[on trék]`<br>• Schedule Compliance | *"Is the QA release sign-off still on track for Friday?"*<br><small>`[iz da kiu-êi ri-lís sáin-óf stil on trék fór frái-dêi?]`</small> | "**`Everything is on track`**. All high-priority test cases have passed and zero Sev-1 bugs remain open."<br><br>**Fonética:** *"év-ri-ting iz on trék. ól rái-prai-ó-ri-ti tést kêi-sez rév pést ênd zí-rou sév-uân bâgz ri-mêin óu-pen."* |
+| 🔴 **`Behind schedule`**<br>`[bi-ráin-di ské-djul]`<br>• Delivery Slippage | *"Why is the integration testing phase behind schedule?"*<br><small>`[uái iz di in-te-grêi-xan tés-ting fêiz bi-ráin-di ské-djul?]`</small> | "We are slightly **`behind schedule`** because flaky third-party APIs caused multiple pipeline failures."<br><br>**Fonética:** *"ui ár slái-tli bi-ráin-di ské-djul bi-kóz flêi-ki têrd-pár-ti êi-pi-áiz kôzd múl-ti-pol pái-pláin fêi-liers."* |
+| 🔵 **`Back on track`**<br>`[bék on trék]`<br>• Post-Incident Recovery | *"Has the automation framework stabilized after the pipeline fix?"*<br><small>`[réz di ó-to-mêi-xan frêim-uârk stêi-bi-láizd áf-ter da pái-pláin fíks?]`</small> | "Yes, after refactoring the locators, our CI/CD pipeline runs are finally **`back on track`**."<br><br>**Fonética:** *"iês, áf-ter ri-fék-to-ring da lou-kêi-tors, áu-er si-ái-si-dí pái-pláin rânz ár fái-na-li bék on trék."* |
+| 🔄 **`In the loop`**<br>`[in da lúp]`<br>• Alignment | *"How should the dev team communicate UI changes to QA?"*<br><small>`[ráu xud da dév tím ko-miú-ni-kêit iu-ái tchên-djez tu kiu-êi?]`</small> | "Please keep the QA team **`in the loop`** so we can update test assertions before features hit staging."<br><br>**Fonética:** *"plíz kíp da kiu-êi tím in da lúp sou ui kên âp-dêit tést â-sêr-xans bi-fór fí-tchurs rit stêi-djing."* |
+| 🚀 **`Moving forward`**<br>`[mú-ving fór-uard]`<br>• Strategy | *"What is our QA mitigation plan after this post-mortem?"*<br><small>`[uót iz áu-er kiu-êi mi-ti-guêi-xan plên áf-ter dis poust-mór-tem?]`</small> | "**`Moving forward`**, we'll implement automated smoke tests in the pull-request gate to prevent regression leaks."<br><br>**Fonética:** *"mú-ving fór-uard, uil ím-ple-ment ó-to-mêi-ted smóuk tésts in da pul-ri-kuést guêit tu pri-vént ri-gré-xan líks."* |
+| 🎯 **`Meet a deadline`**<br>`[mít â déd-lain]`<br>• Commitment | *"Can QA meet the release deadline without cutting exploratory testing?"*<br><small>`[kên kiu-êi mít da ri-lís déd-lain ui-dáut kâ-ting eks-pló-ra-tó-ri tés-ting?]`</small> | "If we run automated regression runs in parallel overnight, we can comfortably **`meet the deadline`**."<br><br>**Fonética:** *"if ui rân ó-to-mêi-ted ri-gré-xan rânz in pé-ra-lel óu-ver-náit, ui kên kôm-for-ta-bli mít da déd-lain."* |
+| ⚠️ **`Miss a deadline`**<br>`[mís â déd-lain]`<br>• Risk Escalation | *"What happens if the dev team delivers the release candidate late?"*<br><small>`[uót ré-pens if da dév tím di-lí-vers da ri-lís kén-di-dêit lêit?]`</small> | "If the build arrives past noon, QA will likely **`miss the deadline`** for user acceptance testing."<br><br>**Fonética:** *"if da bíld â-ráivz pést nún, kiu-êi uil lái-kli mís da déd-lain fór iú-zer êk-sép-tans tés-ting."* |
+| 📢 **`Provide an update`**<br>`[prou-vái-dân âp-dêit]`<br>• Reporting | *"When can the Product Owner expect the defect triage summary?"*<br><small>`[uên kên da pró-dakt óu-ner eks-pékt da di-fékt tri-ádj sâ-ma-ri?]`</small> | "The next step is to **`provide an update`** on the bug pass rate right after the daily stand-up."<br><br>**Fonética:** *"da nékst stêp iz tu prou-vái-dân âp-dêit on da bâg pés rêit ráit áf-ter da dêi-li stênd-âp."* |
+| ✅ **`Complete a task`**<br>`[kôm-plít â tésk]`<br>• Delivery | *"Did you finish documenting the edge cases for authentication?"*<br><small>`[díd iu fí-nix do-kiu-men-ting di édj kêi-sez fór ó-ten-ti-kêi-xan?]`</small> | "Yes, I was able to **`complete the task`** and link all test cases to the Jira epic."<br><br>**Fonética:** *"iês, ai uóz êi-bol tu kôm-plít da tésk ênd línk ól tést kêi-sez tu da Djí-ra é-pik."* |
+
+---
+
+## 5. 🎙️ Speaking & Fluency Challenge
+
+Utilize this script to practice natural cadence, transition phrasing, and technical authority during daily stand-up meetings:
+
+```text
+"Good morning, team. Here is the QA status update for today:
+
+I'm currently working on automating the payment regression test suite because we need 
+to validate multiple currency configurations before the production release.
+
+I've already finished the exploratory testing on the authentication flow, and no critical 
+defects were found.
+
+Right now, I'm still waiting for DevOps to deploy the new API microservice to the staging 
+environment. In the meantime, I will follow up with the tech lead to ensure all environment 
+variables are set up.
+
+The next step is to execute our automated smoke tests as soon as the deployment finishes. 
+We were slightly behind schedule yesterday due to test data issues, but after refactoring 
+our fixtures, we're finally back on track. 
+
+As a result, we're making good progress and we are confident we will meet the release deadline."
+```
+
+### Self-check
+
+Before finishing the lesson, practice a 30–60 second update that includes:
+
+- your current task (`working on`);
+- your progress (`making progress`);
+- one dependency (`waiting for`);
+- the next action (`follow up with` / `follow up on`);
+- the schedule status (`on track`, `behind schedule` or `back on track`);
+- the expected result (`meet the deadline`).
