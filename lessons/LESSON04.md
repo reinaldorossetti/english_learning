@@ -1,5 +1,3 @@
----
-
 ## ✅ 6. Example Answers — Reading Comprehension
 
 Use estas respostas como modelo. Substitua os detalhes pelos seus próprios dados quando praticar.
