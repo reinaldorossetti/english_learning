@@ -43,15 +43,15 @@
 ### 🔄 Tabela de Sinônimos & Frases Equivalentes (QA Context):
 | Expressão Original | Sinônimo / Frase Equivalente | Aplicação Prática no Dia a Dia de QA |
 | :--- | :--- | :--- |
-| **Strong leader** | *Visionary QA Chapter Lead / Quality advocate* | She is a visionary QA lead who champions test automation. |
+| **Strong leader** | *Visionary QA Chapter Lead / Quality advocate* | He is a visionary QA lead who champions test automation. |
 | **Motivate people** | *Inspire standard adoption / encourage quality mindset* | He inspired developers to write solid unit and contract tests. |
 | **Set a clear vision** | *Establish test strategies / define quality metrics* | He defined a transparent test pyramid strategy for the squads. |
 | **Make a positive impact** | *Drastically cut down production escapes* | Her guidance made a direct impact on reducing regression bugs. |
 | **Lead by example** | *Model rigorous testing / walk the talk in code reviews* | A test manager must model meticulous exploratory testing. |
-| **Effective communication** | *Articulate bug reporting / bridge Dev and Product* | She writes crystal-clear, articulate bug tickets with logs. |
+| **Effective communication** | *Articulate bug reporting / bridge Dev and Product* | He writes crystal-clear, articulate bug tickets with logs. |
 | **Build trust** | *Foster confidence in release stability* | Consistent regression testing fosters credibility with clients. |
 | **Empower others** | *Enable engineers to run self-serve automated tests* | He enabled engineers to own test execution in local pipelines. |
-| **Solve problems** | *Troubleshoot flakiness / pinpoint root causes* | She excels at pinpointing the root causes behind race conditions. |
+| **Solve problems** | *Troubleshoot flakiness / pinpoint root causes* | He excels at pinpointing the root causes behind race conditions. |
 | **Drive results** | *Achieve zero-defect releases / speed up CI checks* | Her QA framework drives fast feedback loops and stable builds. |
 
 ---
@@ -62,7 +62,7 @@
 * **What leadership qualities they have:**  
   > *"He has exceptional communication skills and always leads by example. He transformed our view of quality from just 'finding bugs at the end' into a company-wide standard, building trust between QA and backend squads."*
 * **What they have done for you or for others:**  
-  > *"He established a clear vision for test automation, mentored manual testers through their transition to automation engineers, and empowered developers to own unit tests."*
+  > *"He establiHed a clear vision for test automation, mentored manual testers through their transition to automation engineers, and empowered developers to own unit tests."*
 * **Why they are an inspiration:**  
   > *"He proved that QA is not a gatekeeper, but a strategic partner that drives reliable results and safeguards business value with empathy and technical rigor."*
 
@@ -248,7 +248,7 @@
 ### 🔄 Tabela de Sinônimos & Frases Equivalentes (QA Context):
 | Expressão Original | Sinônimo / Frase Equivalente | Aplicação Prática no Dia a Dia de QA |
 | :--- | :--- | :--- |
-| **Step out of my comfort zone** | *Transition from manual verification to code automation* | Writing automated code pushed me outside my comfort zone. |
+| **Step out of my comfort zone** | *Transition from manual verification to code automation* | Writing automated code puHed me outside my comfort zone. |
 | **Take a risk** | *Block an unstable release / challenge delivery metrics* | Calling a release stop was a calculated risk that saved customers. |
 | **Embrace a new challenge** | *Own performance and security testing single-handedly* | I accepted the challenge of building a security sanity suite. |
 | **Deal with uncertainty** | *Test undocumented legacy APIs without documentation* | QAs frequently deal with uncertainty when specs are missing. |
@@ -265,7 +265,7 @@
 * **What the situation was & Why it was outside your comfort zone:**  
   > *"When my squad's dedicated automation engineer left, our team had zero automated tests running in CI. Despite having primarily manual testing experience, I volunteered to architect our Playwright automation pipeline from scratch."*
 * **What you did & How you felt:**  
-  > *"I embraced the challenge, studied modern JavaScript frameworks every evening, and dealt with uncertainty around Docker and GitHub Actions. Initially, I felt anxious about breaking the CI pipeline, but I pushed through."*
+  > *"I embraced the challenge, studied modern JavaScript frameworks every evening, and dealt with uncertainty around Docker and GitHub Actions. Initially, I felt anxious about breaking the CI pipeline, but I puHed through."*
 * **What the outcome was:**  
   > *"Within two months, I had automated 80% of our core regression journeys. Regression time dropped from two full days to just thirty minutes, and the entire squad adopted the framework."*
 * **What you learned from the experience:**  
