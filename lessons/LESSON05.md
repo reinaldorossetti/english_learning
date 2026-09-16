@@ -58,13 +58,13 @@
 
 ### 💡 Respostas Modelo às Perguntas do Tópico — Foco QA:
 * **Who this person is & How you know them:**  
-  > *"I would like to talk about Mariana, who was our QA Chapter Lead during my time working on a high-throughput fintech platform."*
+  > *"I would like to talk about Bruno, who was our QA Chapter Lead during my time working on a high-throughput fintech platform."*
 * **What leadership qualities they have:**  
-  > *"She has exceptional communication skills and always leads by example. She transformed our view of quality from just 'finding bugs at the end' into a company-wide standard, building trust between QA and backend squads."*
+  > *"He has exceptional communication skills and always leads by example. He transformed our view of quality from just 'finding bugs at the end' into a company-wide standard, building trust between QA and backend squads."*
 * **What they have done for you or for others:**  
-  > *"She established a clear vision for test automation, mentored manual testers through their transition to automation engineers, and empowered developers to own unit tests."*
+  > *"He established a clear vision for test automation, mentored manual testers through their transition to automation engineers, and empowered developers to own unit tests."*
 * **Why they are an inspiration:**  
-  > *"She proved that QA is not a gatekeeper, but a strategic partner that drives reliable results and safeguards business value with empathy and technical rigor."*
+  > *"He proved that QA is not a gatekeeper, but a strategic partner that drives reliable results and safeguards business value with empathy and technical rigor."*
 
 ---
 
