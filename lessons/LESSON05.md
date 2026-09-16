@@ -58,7 +58,7 @@
 
 ### 💡 Respostas Modelo às Perguntas do Tópico — Foco QA:
 * **Who this person is & How you know them:**  
-  > *"I would like to talk about Bruno, who was our QA Chapter Lead during my time working on a high-throughput fintech platform."*
+  > *"I would like to talk about Bruno, who was our QA Chapter Lead during my time working on a banking platform."*
 * **What leadership qualities they have:**  
   > *"He has exceptional communication skills and always leads by example. He transformed our view of quality from just 'finding bugs at the end' into a company-wide standard, building trust between QA and backend squads."*
 * **What they have done for you or for others:**  
